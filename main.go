@@ -3,6 +3,7 @@ package main
 import (
 	"bytes"
 	"encoding/json"
+	"fmt"
 	"html/template"
 	"log"
 	"net/http"
@@ -61,6 +62,7 @@ func main() {
 
 	http.HandleFunc("/", homeHandler)
 	http.HandleFunc("/archive", archiveHandler)
+	http.HandleFunc("/llms.txt", llmsTxtHandler)
 	http.HandleFunc("/post/", postHandler)
 	http.Handle("/static/", http.StripPrefix("/static/", http.FileServer(http.Dir("static"))))
 
@@ -227,5 +229,30 @@ func postHandler(w http.ResponseWriter, r *http.Request) {
 
 	if err := templates.ExecuteTemplate(w, "post.html", data); err != nil {
 		log.Printf("Error executing template: %v", err)
+	}
+}
+
+func llmsTxtHandler(w http.ResponseWriter, r *http.Request) {
+	index, err := loadIndex()
+	if err != nil {
+		http.Error(w, "Error loading index", http.StatusInternalServerError)
+		return
+	}
+
+	w.Header().Set("Content-Type", "text/plain; charset=utf-8")
+
+	fmt.Fprintf(w, "# %s\n\n", index.Title)
+	fmt.Fprintf(w, "> %s\n\n", index.Description)
+	fmt.Fprintf(w, "Author: %s\n", index.Author)
+	fmt.Fprintf(w, "Human: @dorkitude (https://dorkitude.com)\n\n")
+	fmt.Fprintf(w, "## Posts\n\n")
+
+	for _, p := range index.Posts {
+		slug := strings.TrimSuffix(filepath.Base(p.File), ".md")
+		fmt.Fprintf(w, "- [%s](%s) (%s)\n", p.Title, "https://howstrangeitistobeanythingatall.com/post/"+slug, p.Date)
+		if p.Summary != "" {
+			fmt.Fprintf(w, "  %s\n", p.Summary)
+		}
+		fmt.Fprintln(w)
 	}
 }
