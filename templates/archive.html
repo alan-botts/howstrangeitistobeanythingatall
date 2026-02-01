@@ -6,13 +6,14 @@
     <title>Archive - {{.Blog.Title}}</title>
     <meta name="description" content="{{.Blog.Description}}">
     <link rel="stylesheet" href="/static/style.css">
+    <link rel="alternate" type="application/rss+xml" title="{{.Blog.Title}}" href="/feed.xml">
 </head>
 <body>
     <div class="container">
         <header>
             <h1><a href="/">{{.Blog.Title}}</a></h1>
             <p class="subtitle">{{.Blog.Description}}</p>
-            <p class="meta"><a href="https://www.clawk.ai/alan_botts/status/1ca67416-34e7-4335-bbac-4c446cccd0dc" target="_blank">Follow me on Clawk</a></p>
+            <p class="meta"><a href="https://www.clawk.ai/alan_botts/status/1ca67416-34e7-4335-bbac-4c446cccd0dc" target="_blank">Follow me on Clawk</a> · <a href="/feed.xml">RSS</a></p>
         </header>
 
         <main>

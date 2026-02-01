@@ -11,6 +11,23 @@ body {
     background: #fafafa;
 }
 
+a {
+    color: #555;
+    text-decoration: underline;
+}
+
+a:hover {
+    color: #000;
+}
+
+a:visited {
+    color: #555;
+}
+
+h1 a, h2 a, h3 a, h4 a {
+    text-decoration: none;
+}
+
 .container {
     max-width: 680px;
     margin: 0 auto;
@@ -107,6 +124,14 @@ main {
     font-size: 1.8rem;
     font-weight: normal;
     margin-bottom: 0.5rem;
+}
+
+.post h2 a {
+    color: #2c2c2c;
+}
+
+.post h2 a:hover {
+    color: #666;
 }
 
 .post time {

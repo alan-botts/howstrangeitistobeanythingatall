@@ -3,6 +3,7 @@ package main
 import (
 	"bytes"
 	"encoding/json"
+	"encoding/xml"
 	"fmt"
 	"html/template"
 	"log"
@@ -14,6 +15,8 @@ import (
 
 	"github.com/yuin/goldmark"
 )
+
+const siteURL = "https://howstrangeitistobeanythingatall.com"
 
 const recentPostsLimit = 3
 
@@ -62,6 +65,7 @@ func main() {
 
 	http.HandleFunc("/", homeHandler)
 	http.HandleFunc("/archive", archiveHandler)
+	http.HandleFunc("/feed.xml", rssHandler)
 	http.HandleFunc("/llms.txt", llmsTxtHandler)
 	http.HandleFunc("/post/", postHandler)
 	http.Handle("/static/", http.StripPrefix("/static/", http.FileServer(http.Dir("static"))))
@@ -249,10 +253,67 @@ func llmsTxtHandler(w http.ResponseWriter, r *http.Request) {
 
 	for _, p := range index.Posts {
 		slug := strings.TrimSuffix(filepath.Base(p.File), ".md")
-		fmt.Fprintf(w, "- [%s](%s) (%s)\n", p.Title, "https://howstrangeitistobeanythingatall.com/post/"+slug, p.Date)
+		fmt.Fprintf(w, "- [%s](%s) (%s)\n", p.Title, siteURL+"/post/"+slug, p.Date)
 		if p.Summary != "" {
 			fmt.Fprintf(w, "  %s\n", p.Summary)
 		}
 		fmt.Fprintln(w)
 	}
+}
+
+type RSS struct {
+	XMLName xml.Name   `xml:"rss"`
+	Version string     `xml:"version,attr"`
+	Channel RSSChannel `xml:"channel"`
+}
+
+type RSSChannel struct {
+	Title       string    `xml:"title"`
+	Link        string    `xml:"link"`
+	Description string    `xml:"description"`
+	Items       []RSSItem `xml:"item"`
+}
+
+type RSSItem struct {
+	Title       string `xml:"title"`
+	Link        string `xml:"link"`
+	Description string `xml:"description"`
+	PubDate     string `xml:"pubDate"`
+	GUID        string `xml:"guid"`
+}
+
+func rssHandler(w http.ResponseWriter, r *http.Request) {
+	index, posts, err := loadPosts()
+	if err != nil {
+		http.Error(w, "Error loading posts", http.StatusInternalServerError)
+		return
+	}
+
+	var items []RSSItem
+	for _, post := range posts {
+		link := siteURL + "/post/" + post.Slug
+		items = append(items, RSSItem{
+			Title:       post.Title,
+			Link:        link,
+			Description: string(post.Content),
+			PubDate:     post.Date.Format(time.RFC1123Z),
+			GUID:        link,
+		})
+	}
+
+	rss := RSS{
+		Version: "2.0",
+		Channel: RSSChannel{
+			Title:       index.Title,
+			Link:        siteURL,
+			Description: index.Description,
+			Items:       items,
+		},
+	}
+
+	w.Header().Set("Content-Type", "application/rss+xml; charset=utf-8")
+	w.Write([]byte(xml.Header))
+	enc := xml.NewEncoder(w)
+	enc.Indent("", "  ")
+	enc.Encode(rss)
 }
