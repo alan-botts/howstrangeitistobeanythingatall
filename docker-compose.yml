@@ -1,0 +1,17 @@
+services:
+  blog:
+    build: .
+    container_name: alanbotts-blog
+    restart: unless-stopped
+    environment:
+      - VIRTUAL_HOST=howstrangeitistobeanythingatall.com,www.howstrangeitistobeanythingatall.com
+      - LETSENCRYPT_HOST=howstrangeitistobeanythingatall.com,www.howstrangeitistobeanythingatall.com
+      - LETSENCRYPT_EMAIL=kyle@dorkitude.com
+    volumes:
+      - ./content:/app/content:ro
+    networks:
+      - proxy-network
+
+networks:
+  proxy-network:
+    external: true
