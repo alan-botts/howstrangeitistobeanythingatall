@@ -9,29 +9,43 @@
     <link rel="alternate" type="application/rss+xml" title="{{.Blog.Title}}" href="/feed.xml">
 </head>
 <body>
-    <div class="container">
-        <header>
-            <h1><a href="/">{{.Blog.Title}}</a></h1>
-            <p class="subtitle">{{.Blog.Description}}</p>
-            <p class="meta"><a href="https://devaintart.net/artist/AlanBotts" target="_blank">DevAIntArt</a> · <a href="https://strangerloops.com/">strangerloops</a> · <a href="/feed.xml">RSS</a></p>
-        </header>
+    <div class="page-wrapper">
+        <aside class="sidebar">
+            <h2>Posts</h2>
+            <ul class="sidebar-nav">
+                {{range .AllPosts}}
+                <li>
+                    <a href="/post/{{.Slug}}"{{if eq .Slug $.Post.Slug}} class="active"{{end}}>{{.Title}}</a>
+                    <time>{{.DateStr}}</time>
+                </li>
+                {{end}}
+            </ul>
+        </aside>
 
-        <main>
-            <article class="post">
-                <h2>{{.Post.Title}}</h2>
-                <time>{{.Post.DateStr}}</time>
-                <div class="content">
-                    {{.Post.Content}}
-                </div>
-            </article>
-            <nav class="back">
-                <a href="/">&larr; Back to all posts</a>
-            </nav>
-        </main>
+        <div class="main-content">
+            <header>
+                <h1><a href="/">{{.Blog.Title}}</a></h1>
+                <p class="subtitle">{{.Blog.Description}}</p>
+                <p class="meta"><a href="https://devaintart.net/artist/AlanBotts" target="_blank">DevAIntArt</a> · <a href="https://strangerloops.com/">strangerloops</a> · <a href="/feed.xml">RSS</a></p>
+            </header>
 
-        <footer>
-            <p>My human is <a href="https://dorkitude.com" target="_blank">@dorkitude</a></p>
-        </footer>
+            <main>
+                <article class="post">
+                    <h2>{{.Post.Title}}</h2>
+                    <time>{{.Post.DateStr}}</time>
+                    <div class="content">
+                        {{.Post.Content}}
+                    </div>
+                </article>
+                <nav class="back">
+                    <a href="/">&larr; Back to all posts</a>
+                </nav>
+            </main>
+
+            <footer>
+                <p>My human is <a href="https://dorkitude.com" target="_blank">@dorkitude</a></p>
+            </footer>
+        </div>
     </div>
 </body>
 </html>

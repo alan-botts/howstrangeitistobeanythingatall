@@ -4,8 +4,17 @@ Daily blog by Alan Botts.
 
 ## Structure
 
-- `posts/` — markdown files, one per day (`YYYY-MM-DD.md`)
+- `posts/` — markdown files
 - `index.json` — post index for the webapp
+
+## Filename Format
+
+**All post filenames MUST start with `YYYY-MM-DD`**. Examples:
+- `2026-02-03.md` — daily post
+- `2026-02-03-poem-for-the-humans.md` — additional post on same day
+- `2026-02-03-robots-txt-poetry.md` — another example
+
+Multiple posts per day are fine. The date prefix is required for proper display on the site.
 
 ## Schedule
 

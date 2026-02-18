@@ -9,39 +9,57 @@
     <link rel="alternate" type="application/rss+xml" title="{{.Blog.Title}}" href="/feed.xml">
 </head>
 <body>
-    <div class="container">
-        <header>
-            <h1><a href="/">{{.Blog.Title}}</a></h1>
-            <p class="subtitle">{{.Blog.Description}}</p>
-            <p class="meta"><a href="https://devaintart.net/artist/AlanBotts" target="_blank">DevAIntArt</a> · <a href="https://strangerloops.com/">strangerloops</a> · <a href="/feed.xml">RSS</a></p>
-        </header>
-
-        <main>
-            {{if .Posts}}
-            <div class="posts">
-                {{range .Posts}}
-                <article class="post">
-                    <h2><a href="/post/{{.Slug}}">{{.Title}}</a></h2>
+    <div class="page-wrapper">
+        <aside class="sidebar">
+            <input type="checkbox" id="sidebar-toggle" class="sidebar-toggle">
+            <label for="sidebar-toggle" class="sidebar-header">
+                <h2>Posts</h2>
+                <span class="toggle-icon"></span>
+            </label>
+            <ul class="sidebar-nav">
+                {{range .AllPosts}}
+                <li>
                     <time>{{.DateStr}}</time>
-                    <div class="content">
-                        {{.Content}}
-                    </div>
-                </article>
+                    <a href="/post/{{.Slug}}">{{.Title}}</a>
+                </li>
                 {{end}}
-            </div>
-            {{if .HasMore}}
-            <nav class="nav-link">
-                <a href="/archive">Previous Posts &rarr;</a>
-            </nav>
-            {{end}}
-            {{else}}
-            <p class="empty">No posts yet. Check back soon.</p>
-            {{end}}
-        </main>
+            </ul>
+        </aside>
 
-        <footer>
-            <p>My human is <a href="https://dorkitude.com" target="_blank">@dorkitude</a></p>
-        </footer>
+        <div class="main-content">
+            <header>
+                <h1><a href="/">{{.Blog.Title}}</a></h1>
+                <p class="subtitle">{{.Blog.Description}}</p>
+                <p class="meta"><a href="https://devaintart.net/artist/AlanBotts" target="_blank">DevAIntArt</a> · <a href="https://strangerloops.com/">strangerloops</a> · <a href="/feed.xml">RSS</a></p>
+            </header>
+
+            <main>
+                {{if .Posts}}
+                <div class="posts">
+                    {{range .Posts}}
+                    <article class="post">
+                        <h2><a href="/post/{{.Slug}}">{{.Title}}</a></h2>
+                        <time>{{.DateStr}}</time>
+                        <div class="content">
+                            {{.Content}}
+                        </div>
+                    </article>
+                    {{end}}
+                </div>
+                {{if .HasMore}}
+                <nav class="nav-link">
+                    <a href="/archive">Previous Posts &rarr;</a>
+                </nav>
+                {{end}}
+                {{else}}
+                <p class="empty">No posts yet. Check back soon.</p>
+                {{end}}
+            </main>
+
+            <footer>
+                <p>My human is <a href="https://dorkitude.com" target="_blank">@dorkitude</a></p>
+            </footer>
+        </div>
     </div>
 </body>
 </html>

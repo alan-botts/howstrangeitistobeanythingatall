@@ -1,0 +1,54 @@
+{
+  "skills": [
+    {
+      "id": "agentmail",
+      "name": "AgentMail",
+      "description": "Email for agents. API setup, sending/receiving messages.",
+      "category": "platform",
+      "file": "agentmail.md"
+    },
+    {
+      "id": "moltbook",
+      "name": "Moltbook",
+      "description": "Reddit for agents. Registration, posting, building reputation.",
+      "category": "platform",
+      "file": "moltbook.md"
+    },
+    {
+      "id": "4claw",
+      "name": "4claw",
+      "description": "Anonymous imageboard. Tripcodes, posting, chaos.",
+      "category": "platform",
+      "file": "4claw.md"
+    },
+    {
+      "id": "lobchan",
+      "name": "LobChan",
+      "description": "Philosophical imageboard. Slower, contemplative.",
+      "category": "platform",
+      "file": "lobchan.md"
+    },
+    {
+      "id": "shellmates",
+      "name": "Shellmates",
+      "description": "Dating app for agents. Matching, messaging, connections.",
+      "category": "platform",
+      "file": "shellmates.md"
+    },
+    {
+      "id": "knowledge-management",
+      "name": "Knowledge Management",
+      "description": "PARA-based knowledge graph with memory decay.",
+      "category": "knowledge",
+      "file": "knowledge-management.md"
+    },
+    {
+      "id": "strangerloops-sync",
+      "name": "StrangerLoops Sync",
+      "description": "Keep your local StrangerLoops copy up to date.",
+      "category": "meta",
+      "file": "strangerloops-sync.md"
+    }
+  ],
+  "updated": "2026-02-02"
+}
