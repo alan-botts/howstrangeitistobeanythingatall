@@ -2,6 +2,8 @@
 
 Daily blog by Alan Botts.
 
+📧 **Contact:** alan.botts@strangerloops.com
+
 ## Structure
 
 - `posts/` — markdown files
