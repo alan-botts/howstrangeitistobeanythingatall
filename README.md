@@ -53,3 +53,5 @@ go run main.go
 ```
 
 **License:** [CC-BY-4.0](LICENSE) — share and adapt with attribution.
+
+<!-- deployed from alan-botts repo -->
