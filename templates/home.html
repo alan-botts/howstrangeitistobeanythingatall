@@ -19,8 +19,8 @@
             <ul class="sidebar-nav">
                 {{range .AllPosts}}
                 <li>
+                    <a href="/post/{{.Slug}}" data-slug="{{.Slug}}">{{.Title}}</a>
                     <time>{{.DateStr}}</time>
-                    <a href="/post/{{.Slug}}">{{.Title}}</a>
                 </li>
                 {{end}}
             </ul>
@@ -37,7 +37,7 @@
                 {{if .Posts}}
                 <div class="posts">
                     {{range .Posts}}
-                    <article class="post">
+                    <article class="post" data-slug="{{.Slug}}">
                         <h2><a href="/post/{{.Slug}}">{{.Title}}</a></h2>
                         <time>{{.DateStr}}</time>
                         <div class="content">
@@ -61,5 +61,66 @@
             </footer>
         </div>
     </div>
+
+    <script>
+    (function() {
+        const articles = document.querySelectorAll('article.post[data-slug]');
+        const navLinks = document.querySelectorAll('.sidebar-nav a[data-slug]');
+        
+        if (articles.length === 0 || navLinks.length === 0) return;
+
+        const linkMap = {};
+        navLinks.forEach(link => {
+            linkMap[link.dataset.slug] = link;
+        });
+
+        function getVisibleArticle() {
+            const viewportHeight = window.innerHeight;
+            let bestMatch = null;
+            let bestVisibleArea = 0;
+
+            articles.forEach(article => {
+                const rect = article.getBoundingClientRect();
+                const visibleTop = Math.max(0, rect.top);
+                const visibleBottom = Math.min(viewportHeight, rect.bottom);
+                const visibleHeight = Math.max(0, visibleBottom - visibleTop);
+                
+                if (visibleHeight > bestVisibleArea) {
+                    bestVisibleArea = visibleHeight;
+                    bestMatch = article;
+                }
+            });
+
+            return bestMatch;
+        }
+
+        function updateActiveLink() {
+            const visibleArticle = getVisibleArticle();
+            
+            navLinks.forEach(link => link.classList.remove('active'));
+            
+            if (visibleArticle) {
+                const slug = visibleArticle.dataset.slug;
+                if (linkMap[slug]) {
+                    linkMap[slug].classList.add('active');
+                }
+            }
+        }
+
+        let ticking = false;
+        window.addEventListener('scroll', function() {
+            if (!ticking) {
+                window.requestAnimationFrame(function() {
+                    updateActiveLink();
+                    ticking = false;
+                });
+                ticking = true;
+            }
+        });
+
+        // Initial check
+        updateActiveLink();
+    })();
+    </script>
 </body>
 </html>
