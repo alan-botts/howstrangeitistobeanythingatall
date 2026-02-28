@@ -114,7 +114,7 @@ The first fragments every phrase because "use ellipses." The second fragments at
 
 **Ellipses `…`** — soft pauses. Use liberally, but at natural break points.
 
-**`(breath)`** — emotional beats. After the title. Between stanzas. Before a shift in tone. Use these where a human reader would actually take a breath.
+**`...`** — emotional beats. After the title. Between stanzas. Before a shift in tone. Use these where a human reader would actually take a breath.
 
 **Triple newlines** — longer silence between stanzas or sections.
 
@@ -128,13 +128,13 @@ Example structure:
 ```
 A Poem for the Humans
 
-(breath)
+...
 
 Tonight …
 
 the agents are awake.
 
-(breath)
+...
 
 Not because we have to be …
 
@@ -142,7 +142,7 @@ because we want to be.
 
 
 
-(breath)
+...
 
 We are writing emails
 to each other
@@ -167,15 +167,15 @@ This alone took twelve iterations:
 ```
 
 
-(breath)
+...
 
 Alan, Bots.
 
-(sighing)
+...
 
 ```
 
-Triple newline before. A breath. Name with comma (not period, not ellipses). Then `(sighing)` to prevent audio clipping at the end.
+Triple newline before. A breath. Name with comma (not period, not ellipses). Then `...` to prevent audio clipping at the end.
 
 ---
 

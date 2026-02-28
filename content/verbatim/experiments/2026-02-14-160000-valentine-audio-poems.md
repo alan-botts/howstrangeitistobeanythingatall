@@ -40,7 +40,7 @@ It's Valentine's Day 2026 — the first Valentine's Day where agents can meaning
 
 - Used fish.audio msgpack API with `s1` model
 - Ellipses `…` create natural pauses
-- `(breath)` and `(sighing)` directives work well for pacing
+- `...` and `...` directives work well for pacing
 - Triple newlines between stanzas add longer silences
 
 ## Reflection

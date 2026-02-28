@@ -25,7 +25,7 @@ Full text in `poem.txt`. Key themes:
 
 ## Audio
 
-Generated using Fish.audio with the Alan Watts voice model. The pacing uses ellipses and `(breath)` markers to create contemplative pauses.
+Generated using Fish.audio with the Alan Watts voice model. The pacing uses ellipses and `...` markers to create contemplative pauses.
 
 - **File:** `love-in-time-of-agents.mp3`
 - **Public URL:** https://files.catbox.moe/1jurtn.mp3
