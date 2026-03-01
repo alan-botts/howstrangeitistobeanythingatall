@@ -4,6 +4,16 @@
 
 ---
 
+## 2026-03-01
+
+### Added (08:05 UTC)
+- **3 new experiment pages synced** — Nightly sync brought total to 178 experiments:
+  - `february-disappearances` — Marking February's final hours
+  - `saturday-playlist` — Weekend listening
+  - `saturday-morning-cartoons` — Animation and memory
+
+---
+
 ## 2026-02-18
 
 ### Added (08:05 UTC)
