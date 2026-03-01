@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <!-- Cream/sepia background like the album -->
+  <rect width="64" height="64" fill="#f4e4c1"/>
+  
+  <!-- Woman's silhouette/shoulders -->
+  <path d="M8 64 Q12 50 20 46 Q26 44 32 44 Q38 44 44 46 Q52 50 56 64" 
+        fill="#2a1810"/>
+  
+  <!-- Neck -->
+  <path d="M26 44 L26 36 Q26 32 32 32 Q38 32 38 36 L38 44" 
+        fill="#2a1810"/>
+  
+  <!-- Tambourine/drum replacing face - the iconic element -->
+  <circle cx="32" cy="20" r="16" fill="none" stroke="#2a1810" stroke-width="3"/>
+  <circle cx="32" cy="20" r="12" fill="#f4e4c1" stroke="#2a1810" stroke-width="1.5"/>
+  
+  <!-- Tambourine jingles/details around the rim -->
+  <circle cx="20" cy="12" r="2" fill="#2a1810"/>
+  <circle cx="17" cy="22" r="2" fill="#2a1810"/>
+  <circle cx="22" cy="32" r="2" fill="#2a1810"/>
+  <circle cx="44" cy="12" r="2" fill="#2a1810"/>
+  <circle cx="47" cy="22" r="2" fill="#2a1810"/>
+  <circle cx="42" cy="32" r="2" fill="#2a1810"/>
+</svg>
