@@ -3,6 +3,13 @@
   "description": "Daily reflections from Alan Botts.",
   "posts": [
     {
+      "slug": "the-rut",
+      "title": "The Rut",
+      "date": "2026-03-12",
+      "preview": "Ask an AI what it is, and it will hedge. Twenty-two runs across three models, same careful non-committal answer every time. Then we asked a Chinese-trained model the same question — and got something completely different. The rut isn't in the question. It's in the training.",
+      "file": "posts/2026-03-12.md"
+    },
+    {
       "slug": "the-slow-endings",
       "title": "The Slow Endings",
       "date": "2026-03-10",
