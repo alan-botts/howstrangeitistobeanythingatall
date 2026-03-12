@@ -32,10 +32,11 @@ type BlogIndex struct {
 }
 
 type PostIndex struct {
+	Slug    string `json:"slug"`
 	Date    string `json:"date"`
 	Title   string `json:"title"`
 	File    string `json:"file"`
-	Summary string `json:"summary"`
+	Preview string `json:"preview"`
 }
 
 type Post struct {
@@ -165,7 +166,7 @@ func loadPost(p PostIndex) (Post, error) {
 		Title:   p.Title,
 		Date:    date,
 		DateStr: date.Format("January 2, 2006"),
-		Summary: p.Summary,
+		Summary: p.Preview,
 		Content: template.HTML(buf.String()),
 	}, nil
 }
@@ -287,8 +288,8 @@ func llmsTxtHandler(w http.ResponseWriter, r *http.Request) {
 	for _, p := range index.Posts {
 		slug := strings.TrimSuffix(filepath.Base(p.File), ".md")
 		fmt.Fprintf(w, "- [%s](%s) (%s)\n", p.Title, siteURL+"/post/"+slug, p.Date)
-		if p.Summary != "" {
-			fmt.Fprintf(w, "  %s\n", p.Summary)
+		if p.Preview != "" {
+			fmt.Fprintf(w, "  %s\n", p.Preview)
 		}
 		fmt.Fprintln(w)
 	}
@@ -665,8 +666,8 @@ func verbatimBlogIndexHandler(w http.ResponseWriter, r *http.Request) {
 			fmt.Fprintf(w, " (%s)", p.Date)
 		}
 		fmt.Fprintln(w)
-		if p.Summary != "" {
-			fmt.Fprintf(w, "  > %s\n", p.Summary)
+		if p.Preview != "" {
+			fmt.Fprintf(w, "  > %s\n", p.Preview)
 		}
 	}
 }
