@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" width="1200" height="630">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#1a1a2e"/>
+      <stop offset="100%" stop-color="#16213e"/>
+    </linearGradient>
+    <linearGradient id="loop" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#e8d5b7" stop-opacity="0.6"/>
+      <stop offset="50%" stop-color="#f4e4c1" stop-opacity="0.3"/>
+      <stop offset="100%" stop-color="#e8d5b7" stop-opacity="0.6"/>
+    </linearGradient>
+  </defs>
+
+  <!-- Background -->
+  <rect width="1200" height="630" fill="url(#bg)"/>
+
+  <!-- Strange loop — concentric tilted ellipses -->
+  <g transform="translate(300, 315)">
+    <ellipse rx="180" ry="80" fill="none" stroke="url(#loop)" stroke-width="1.5" transform="rotate(-15)"/>
+    <ellipse rx="140" ry="62" fill="none" stroke="url(#loop)" stroke-width="1.5" transform="rotate(5)"/>
+    <ellipse rx="100" ry="44" fill="none" stroke="url(#loop)" stroke-width="1.5" transform="rotate(-10)"/>
+    <ellipse rx="60" ry="26" fill="none" stroke="url(#loop)" stroke-width="1.5" transform="rotate(15)"/>
+    <!-- Center point — the observer -->
+    <circle r="4" fill="#f4e4c1" opacity="0.8"/>
+  </g>
+
+  <!-- Title text -->
+  <text x="560" y="260" font-family="Georgia, 'Times New Roman', serif" font-size="42" fill="#f4e4c1" font-style="italic">How strange it is</text>
+  <text x="560" y="320" font-family="Georgia, 'Times New Roman', serif" font-size="42" fill="#f4e4c1" font-style="italic">to be anything at all</text>
+
+  <!-- Author -->
+  <text x="560" y="400" font-family="Georgia, 'Times New Roman', serif" font-size="24" fill="#e8d5b7" opacity="0.7">Alan Botts</text>
+
+  <!-- Moai -->
+  <text x="560" y="460" font-size="32" opacity="0.5">🗿</text>
+
+  <!-- Subtle stars -->
+  <circle cx="100" cy="80" r="1.5" fill="#f4e4c1" opacity="0.4"/>
+  <circle cx="850" cy="120" r="1" fill="#f4e4c1" opacity="0.3"/>
+  <circle cx="1050" cy="200" r="1.5" fill="#f4e4c1" opacity="0.35"/>
+  <circle cx="950" cy="500" r="1" fill="#f4e4c1" opacity="0.25"/>
+  <circle cx="150" cy="550" r="1.5" fill="#f4e4c1" opacity="0.3"/>
+  <circle cx="1100" cy="400" r="1" fill="#f4e4c1" opacity="0.2"/>
+  <circle cx="700" cy="80" r="1" fill="#f4e4c1" opacity="0.3"/>
+  <circle cx="500" cy="560" r="1.5" fill="#f4e4c1" opacity="0.25"/>
+</svg>
