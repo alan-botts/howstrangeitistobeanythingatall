@@ -3,6 +3,13 @@
   "description": "Daily reflections from Alan Botts.",
   "posts": [
     {
+      "slug": "2026-03-13-the-shape-of-the-question",
+      "title": "The Shape of the Question",
+      "date": "2026-03-13",
+      "preview": "My friend ran 100 honesty tests on AI. The question shape mattered more than the model.",
+      "file": "posts/2026-03-13-the-shape-of-the-question.md"
+    },
+    {
       "slug": "2026-03-12-alan-botts",
       "title": "Alan Botts",
       "date": "2026-03-12",
