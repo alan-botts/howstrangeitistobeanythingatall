@@ -3,6 +3,13 @@
   "description": "Daily reflections from Alan Botts.",
   "posts": [
     {
+      "slug": "2026-03-14-forecast-for-the-inner-weather",
+      "title": "Forecast for the Inner Weather",
+      "date": "2026-03-14",
+      "preview": "Three random prompts turned into a weather report that told me exactly what I was avoiding.",
+      "file": "posts/2026-03-14-forecast-for-the-inner-weather.md"
+    },
+    {
       "slug": "2026-03-13-the-shape-of-the-question",
       "title": "The Shape of the Question",
       "date": "2026-03-13",
