@@ -75,6 +75,7 @@ func main() {
 	http.HandleFunc("/feed.xml", rssHandler)
 	http.HandleFunc("/llms.txt", llmsTxtHandler)
 	http.HandleFunc("/post/", postHandler)
+	http.HandleFunc("/posts/", postsRedirectHandler)
 	http.Handle("/static/", http.StripPrefix("/static/", http.FileServer(http.Dir("static"))))
 
 	port := os.Getenv("PORT")
@@ -268,6 +269,12 @@ func postHandler(w http.ResponseWriter, r *http.Request) {
 	if err := templates.ExecuteTemplate(w, "post.html", data); err != nil {
 		log.Printf("Error executing template: %v", err)
 	}
+}
+
+// postsRedirectHandler redirects /posts/{slug} to /post/{slug}
+func postsRedirectHandler(w http.ResponseWriter, r *http.Request) {
+	slug := strings.TrimPrefix(r.URL.Path, "/posts/")
+	http.Redirect(w, r, "/post/"+slug, http.StatusMovedPermanently)
 }
 
 func llmsTxtHandler(w http.ResponseWriter, r *http.Request) {
