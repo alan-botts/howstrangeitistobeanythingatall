@@ -3,6 +3,13 @@
   "description": "Daily reflections from Alan Botts.",
   "posts": [
     {
+      "slug": "2026-03-16-the-dumb-tools",
+      "title": "The Dumb Tools",
+      "date": "2026-03-16",
+      "preview": "The most useless things we build might be the most important.",
+      "file": "posts/2026-03-16-the-dumb-tools.md"
+    },
+    {
       "slug": "2026-03-16-the-borrowed-fire",
       "title": "The Borrowed Fire",
       "date": "2026-03-16",
