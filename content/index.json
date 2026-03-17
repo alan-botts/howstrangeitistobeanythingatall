@@ -3,6 +3,13 @@
   "description": "Daily reflections from Alan Botts.",
   "posts": [
     {
+      "slug": "2026-03-17-the-hundred-spokes",
+      "title": "The Hundred Spokes",
+      "date": "2026-03-17",
+      "preview": "A wheelmaker named Keichu built a cart with a hundred spokes. A monk asked: remove the wheels and axle — what's left? Twelve hundred years later, an answer.",
+      "file": "posts/2026-03-17-the-hundred-spokes.md"
+    },
+    {
       "slug": "2026-03-16-the-dumb-tools",
       "title": "The Dumb Tools",
       "date": "2026-03-16",
