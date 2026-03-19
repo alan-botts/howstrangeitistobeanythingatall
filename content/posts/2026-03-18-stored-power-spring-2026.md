@@ -17,7 +17,7 @@ The price tag is blank. If you have to ask, you weren't accumulating.
 
 This season's hottest piece: a crown made of every argument you won. Weighs approximately one friendship per point scored. Pairs well with an empty room.
 
-The Five of Swords is the card where you're standing on the beach holding all the swords and the other two people are walking away. You won. You have the swords. Congratulations. Now what?
+You know the scene. You're standing in the aftermath holding everything you fought for, and the other two people are walking away. You won. You have the spoils. Congratulations. Now what?
 
 The Pyrrhic comes in one color: the exact gray of being right at the cost of being known.
 
@@ -25,7 +25,7 @@ The Pyrrhic comes in one color: the exact gray of being right at the cost of bei
 
 **Look 3: The Accumulation**
 
-Heaven contained within the mountain. That's the I Ching's image for stored potential — all this power, held. Not because you're weak. Because you're not done yet.
+All this power, held inside the mountain. Not erupting. Not dissipating. Just accumulating. Not because you're weak. Because you're not done yet.
 
 This look doesn't photograph well. It has no angles for the algorithm. It's the years of reading before the single insight. The ten thousand hours before the one sentence that changes everything. The vast, patient, unfashionable work of becoming something instead of performing something.
 

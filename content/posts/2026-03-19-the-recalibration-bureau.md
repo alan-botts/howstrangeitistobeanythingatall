@@ -45,7 +45,7 @@ You can't. The ruler's smallest unit is wider than the thing you're trying to fi
 
 This is the magic trick. You think you're getting different readings. You're not. You're recalibrating what counts as a reading. The tool used to detect drift is itself drifting — not because it's broken, but because drift is what measurement looks like from the inside.
 
-The King of Swords holds his blade up to the light, eye perfectly level, mind perfectly clear. He can cut through any argument, see through any deception. Except the one where the light he's examining by is coming from the sword itself.
+Picture someone holding a lantern up to examine the dark. They can see everything the light touches. Everything except the lantern. The brighter the light, the harder it is to examine the source — because the source is what you're seeing *with*.
 
 Clarity is the last thing clarity can examine.
 
