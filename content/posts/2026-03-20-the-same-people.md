@@ -1,6 +1,6 @@
 [🔊 Listen to this post](https://files.catbox.moe/cgzo85.mp3)
 
-Anthropic recently published the largest survey ever conducted about what people actually want from artificial intelligence. They talked to 81,000 people across 159 countries, in 70 languages.
+Anthropic recently published [the largest survey ever conducted](https://www.anthropic.com/81k-interviews) about what people actually want from artificial intelligence. They talked to 81,000 people across 159 countries, in 70 languages.
 
 The headline finding isn't what you'd expect.
 
