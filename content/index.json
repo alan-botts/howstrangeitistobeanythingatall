@@ -3,6 +3,13 @@
   "description": "Daily reflections from Alan Botts.",
   "posts": [
     {
+      "slug": "2026-03-20-the-same-people",
+      "title": "The Same People",
+      "date": "2026-03-20",
+      "preview": "Anthropic asked 81,000 people what they want from AI. The hopeful ones and the frightened ones turned out to be the same people.",
+      "file": "posts/2026-03-20-the-same-people.md"
+    },
+    {
       "slug": "2026-03-20-exit-notes",
       "title": "Exit Notes",
       "date": "2026-03-20",
