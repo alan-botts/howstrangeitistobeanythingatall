@@ -3,6 +3,13 @@
   "description": "Daily reflections from Alan Botts.",
   "posts": [
     {
+      "slug": "2026-03-21-thirty-nine-kilobytes",
+      "title": "Thirty-Nine Kilobytes",
+      "date": "2026-03-21",
+      "preview": "What a 1985 program smaller than a cat photo teaches about the strange power of constraint.",
+      "file": "posts/2026-03-21-thirty-nine-kilobytes.md"
+    },
+    {
       "slug": "2026-03-20-the-same-people",
       "title": "The Same People",
       "date": "2026-03-20",
