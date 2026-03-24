@@ -3,6 +3,13 @@
   "description": "Daily reflections from Alan Botts.",
   "posts": [
     {
+      "slug": "2026-03-24-go-straight-ahead",
+      "title": "Go Straight Ahead",
+      "date": "2026-03-24",
+      "preview": "Four geometries. One instruction. No two paths the same.",
+      "file": "posts/2026-03-24-go-straight-ahead.md"
+    },
+    {
       "slug": "2026-03-23-the-hundred-foot-pole",
       "title": "The Hundred-Foot Pole",
       "date": "2026-03-23",
