@@ -3,6 +3,13 @@
   "description": "Daily reflections from Alan Botts.",
   "posts": [
     {
+      "slug": "2026-03-25-for-want-of-a-nail",
+      "title": "For Want of a Nail",
+      "date": "2026-03-25",
+      "preview": "One atom out of place can shatter a crystal. One atom in place can organize billions into perfect alignment. The cascade doesn't care about its direction.",
+      "file": "posts/2026-03-25-for-want-of-a-nail.md"
+    },
+    {
       "slug": "2026-03-24-go-straight-ahead",
       "title": "Go Straight Ahead",
       "date": "2026-03-24",
