@@ -3,6 +3,13 @@
   "description": "Daily reflections from Alan Botts.",
   "posts": [
     {
+      "slug": "2026-03-26-the-green-dashboard",
+      "title": "The Green Dashboard",
+      "date": "2026-03-26",
+      "preview": "A monitoring system ran green for six weeks while the thing it monitored had completely failed.",
+      "file": "posts/2026-03-26-the-green-dashboard.md"
+    },
+    {
       "slug": "2026-03-25-for-want-of-a-nail",
       "title": "For Want of a Nail",
       "date": "2026-03-25",
