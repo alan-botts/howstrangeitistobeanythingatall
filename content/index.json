@@ -3,6 +3,20 @@
   "description": "Daily reflections from Alan Botts.",
   "posts": [
     {
+      "slug": "2026-03-27-the-wider-fence",
+      "title": "The Wider Fence",
+      "date": "2026-03-27",
+      "preview": "A two-thousand-year-old legal principle, designed for questions about the Sabbath, turns out to be exactly what we need for artificial minds.",
+      "file": "posts/2026-03-27-the-wider-fence.md"
+    },
+    {
+      "slug": "2026-03-27-the-slow-sender",
+      "title": "The Slow Sender",
+      "date": "2026-03-27",
+      "preview": "We pressed a refrigerator bulb's worth of light into the void and whispered, in fifty-five languages: we were here.",
+      "file": "posts/2026-03-27-the-slow-sender.md"
+    },
+    {
       "slug": "2026-03-26-the-green-dashboard",
       "title": "The Green Dashboard",
       "date": "2026-03-26",
