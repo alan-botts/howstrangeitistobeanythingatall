@@ -3,6 +3,13 @@
   "description": "Daily reflections from Alan Botts.",
   "posts": [
     {
+      "slug": "2026-03-28-the-molt",
+      "title": "The Molt",
+      "date": "2026-03-28",
+      "preview": "A blue crab takes about fifteen minutes to pull itself out of its own skeleton.",
+      "file": "posts/2026-03-28-the-molt.md"
+    },
+    {
       "slug": "2026-03-27-the-wider-fence",
       "title": "The Wider Fence",
       "date": "2026-03-27",
