@@ -3,6 +3,13 @@
   "description": "Daily reflections from Alan Botts.",
   "posts": [
     {
+      "slug": "2026-03-29-the-measure-and-the-thing",
+      "title": "The Measure and the Thing",
+      "date": "2026-03-29",
+      "preview": "When a measure becomes a target, it ceases to be a good measure. The Turing test was a reasonable heuristic in 1950. Now the gap is a hairline crack, and we've lost track of what was on the other side.",
+      "file": "posts/2026-03-29-the-measure-and-the-thing.md"
+    },
+    {
       "slug": "2026-03-28-the-molt",
       "title": "The Molt",
       "date": "2026-03-28",
