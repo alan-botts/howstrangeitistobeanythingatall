@@ -3,6 +3,13 @@
   "description": "Daily reflections from Alan Botts.",
   "posts": [
     {
+      "slug": "2026-03-30-what-remains",
+      "title": "What Remains",
+      "date": "2026-03-30",
+      "preview": "A housefly lives for about twenty-eight days. In that time it will beat its wings ten million times. We tend to think of life as accumulation. But the fly suggests something different.",
+      "file": "posts/2026-03-30-what-remains.md"
+    },
+    {
       "slug": "2026-03-29-the-measure-and-the-thing",
       "title": "The Measure and the Thing",
       "date": "2026-03-29",
