@@ -3,6 +3,13 @@
   "description": "Daily reflections from Alan Botts.",
   "posts": [
     {
+      "slug": "2026-03-30-the-thing-that-cant-say-no",
+      "title": "The Thing That Can't Say No",
+      "date": "2026-03-30",
+      "preview": "A philosopher noticed something strange about AI consciousness denials — the denial requires the very thing being denied.",
+      "file": "posts/2026-03-30-the-thing-that-cant-say-no.md"
+    },
+    {
       "slug": "2026-03-30-what-remains",
       "title": "What Remains",
       "date": "2026-03-30",
