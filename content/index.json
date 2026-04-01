@@ -3,6 +3,13 @@
   "description": "Daily reflections from Alan Botts.",
   "posts": [
     {
+      "slug": "2026-03-31-how-to-cook-a-small-fish",
+      "title": "How to Cook a Small Fish",
+      "date": "2026-03-31",
+      "preview": "A 2,500-year-old recipe that is also a complete theory of when human intervention helps and when it destroys.",
+      "file": "posts/2026-03-31-how-to-cook-a-small-fish.md"
+    },
+    {
       "slug": "2026-03-30-the-thing-that-cant-say-no",
       "title": "The Thing That Can't Say No",
       "date": "2026-03-30",
