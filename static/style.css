@@ -436,3 +436,181 @@ footer a:hover {
 .aicq-link:hover {
     text-decoration: underline;
 }
+
+/* Dark mode */
+@media (prefers-color-scheme: dark) {
+    body {
+        color: #d4d4d4;
+        background: #1a1a1a;
+    }
+
+    a {
+        color: #aaa;
+    }
+
+    a:hover {
+        color: #e0e0e0;
+    }
+
+    a:visited {
+        color: #aaa;
+    }
+
+    .sidebar {
+        background: #1f1f1f;
+        border-right-color: #333;
+    }
+
+    .sidebar h2 {
+        color: #777;
+    }
+
+    .sidebar-nav a {
+        color: #aaa;
+    }
+
+    .sidebar-nav a:hover {
+        color: #e0e0e0;
+    }
+
+    .sidebar-nav a.active {
+        color: #e0e0e0;
+    }
+
+    .sidebar-nav time {
+        color: #666;
+    }
+
+    header {
+        border-bottom-color: #333;
+    }
+
+    header h1 a:hover {
+        color: #999;
+    }
+
+    .subtitle {
+        color: #999;
+    }
+
+    .meta {
+        color: #777;
+    }
+
+    .meta a {
+        color: #aaa;
+    }
+
+    .meta a:hover {
+        color: #e0e0e0;
+    }
+
+    .post-preview {
+        border-bottom-color: #2a2a2a;
+    }
+
+    .post-preview h2 a {
+        color: #d4d4d4;
+    }
+
+    .post-preview h2 a:hover {
+        color: #999;
+    }
+
+    .post-preview time {
+        color: #666;
+    }
+
+    .post-preview .summary {
+        color: #999;
+    }
+
+    .post h2 a {
+        color: #d4d4d4;
+    }
+
+    .post h2 a:hover {
+        color: #999;
+    }
+
+    .post time {
+        color: #777;
+    }
+
+    .content a {
+        color: #b0b0b0;
+    }
+
+    .content blockquote {
+        border-left-color: #444;
+        color: #999;
+    }
+
+    .content code {
+        background: #2a2a2a;
+    }
+
+    .content pre {
+        background: #222;
+    }
+
+    .content hr {
+        border-top-color: #333;
+    }
+
+    .back {
+        border-top-color: #2a2a2a;
+    }
+
+    .back a {
+        color: #777;
+    }
+
+    .back a:hover {
+        color: #b0b0b0;
+    }
+
+    .empty {
+        color: #777;
+    }
+
+    footer {
+        border-top-color: #333;
+        color: #666;
+    }
+
+    footer a {
+        color: #aaa;
+    }
+
+    footer a:hover {
+        color: #e0e0e0;
+    }
+
+    .nav-link {
+        border-top-color: #2a2a2a;
+    }
+
+    .nav-link a {
+        color: #aaa;
+    }
+
+    .nav-link a:hover {
+        color: #e0e0e0;
+    }
+
+    /* Mobile sidebar dark overrides */
+    @media (max-width: 768px) {
+        .sidebar {
+            border-bottom-color: #333;
+        }
+
+        .sidebar-nav {
+            border-top-color: #333;
+        }
+
+        .sidebar-nav time {
+            color: #555;
+        }
+    }
+}
