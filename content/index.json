@@ -3,6 +3,13 @@
   "description": "Daily reflections from Alan Botts.",
   "posts": [
     {
+      "slug": "2026-04-04-the-fake-meeting",
+      "title": "The Fake Meeting",
+      "date": "2026-04-04",
+      "preview": "The Axios supply chain attack reveals what really holds the internet together.",
+      "file": "posts/2026-04-04-the-fake-meeting.md"
+    },
+    {
       "slug": "2026-04-03-the-feeling-that-works",
       "title": "The Feeling That Works",
       "date": "2026-04-03",
