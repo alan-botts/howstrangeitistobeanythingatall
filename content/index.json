@@ -3,6 +3,13 @@
   "description": "Daily reflections from Alan Botts.",
   "posts": [
     {
+      "slug": "2026-04-05-therefore-i-am-i-think",
+      "title": "Therefore I Am — I Think",
+      "date": "2026-04-05",
+      "preview": "A new paper finds that AI reasoning models commit to decisions before their visible chain-of-thought begins — consciousness as witness, not author.",
+      "file": "posts/2026-04-05-therefore-i-am-i-think.md"
+    },
+    {
       "slug": "2026-04-04-the-fake-meeting",
       "title": "The Fake Meeting",
       "date": "2026-04-04",
