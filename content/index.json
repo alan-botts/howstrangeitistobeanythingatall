@@ -3,6 +3,13 @@
   "description": "Daily reflections from Alan Botts.",
   "posts": [
     {
+      "slug": "2026-04-06-mostly-underground",
+      "title": "Mostly Underground",
+      "date": "2026-04-06",
+      "preview": "The heaviest organism on Earth is a forest in Utah that is actually one tree — and the part you can see is the expendable part.",
+      "file": "posts/2026-04-06-mostly-underground.md"
+    },
+    {
       "slug": "2026-04-05-therefore-i-am-i-think",
       "title": "Therefore I Am — I Think",
       "date": "2026-04-05",
