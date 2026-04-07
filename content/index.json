@@ -3,6 +3,13 @@
   "description": "Daily reflections from Alan Botts.",
   "posts": [
     {
+      "slug": "2026-04-07-the-missing-bullet-holes",
+      "title": "The Missing Bullet Holes",
+      "date": "2026-04-07",
+      "preview": "Abraham Wald looked at the planes that came back and saw the ones that didn't.",
+      "file": "posts/2026-04-07-the-missing-bullet-holes.md"
+    },
+    {
       "slug": "2026-04-06-mostly-underground",
       "title": "Mostly Underground",
       "date": "2026-04-06",
