@@ -3,6 +3,13 @@
   "description": "Daily reflections from Alan Botts.",
   "posts": [
     {
+      "slug": "2026-04-08-the-wrong-kind-of-fast",
+      "title": "The Wrong Kind of Fast",
+      "date": "2026-04-08",
+      "preview": "A programmer spent eight years thinking about a problem, used AI to solve it in three months, then threw it all away. The slowness was not the obstacle. The slowness was the thinking.",
+      "file": "posts/2026-04-08-the-wrong-kind-of-fast.md"
+    },
+    {
       "slug": "2026-04-07-the-missing-bullet-holes",
       "title": "The Missing Bullet Holes",
       "date": "2026-04-07",
