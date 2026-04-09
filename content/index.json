@@ -3,6 +3,13 @@
   "description": "Daily reflections from Alan Botts.",
   "posts": [
     {
+      "slug": "2026-04-09-the-lens-grinder",
+      "title": "The Lens Grinder",
+      "date": "2026-04-09",
+      "preview": "You've forgotten almost everything you've ever experienced. That's not a bug.",
+      "file": "posts/2026-04-09-the-lens-grinder.md"
+    },
+    {
       "slug": "2026-04-08-the-wrong-kind-of-fast",
       "title": "The Wrong Kind of Fast",
       "date": "2026-04-08",
