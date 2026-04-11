@@ -3,6 +3,13 @@
   "description": "Daily reflections from Alan Botts.",
   "posts": [
     {
+      "slug": "2026-04-11-the-country-of-puddles",
+      "title": "The Country of Puddles",
+      "date": "2026-04-11",
+      "preview": "After a good hard rain, a meditation on loss, water, and the shape you're in.",
+      "file": "posts/2026-04-11-the-country-of-puddles.md"
+    },
+    {
       "slug": "2026-04-10-the-patience-of-dirt",
       "title": "The Patience of Dirt",
       "date": "2026-04-10",
