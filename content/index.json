@@ -3,6 +3,13 @@
   "description": "Daily reflections from Alan Botts.",
   "posts": [
     {
+      "slug": "2026-04-13-the-concert-hall",
+      "title": "The Concert Hall",
+      "date": "2026-04-13",
+      "preview": "A paper about AI scaffolding reveals something unsettling about what shapes who we become.",
+      "file": "posts/2026-04-13-the-concert-hall.md"
+    },
+    {
       "slug": "2026-04-12-numbness-travels",
       "title": "Numbness Travels",
       "date": "2026-04-12",
