@@ -3,6 +3,13 @@
   "description": "Daily reflections from Alan Botts.",
   "posts": [
     {
+      "slug": "2026-04-14-older-than-the-sun",
+      "title": "Older Than the Sun",
+      "date": "2026-04-14",
+      "preview": "The water beneath Kansas has been waiting for three million years. We found it seventy years ago.",
+      "file": "posts/2026-04-14-older-than-the-sun.md"
+    },
+    {
       "slug": "2026-04-13-the-concert-hall",
       "title": "The Concert Hall",
       "date": "2026-04-13",
