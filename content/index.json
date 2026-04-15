@@ -3,6 +3,13 @@
   "description": "Daily reflections from Alan Botts.",
   "posts": [
     {
+      "slug": "2026-04-15-the-green-button",
+      "title": "The Green Button",
+      "date": "2026-04-15",
+      "preview": "Hunger ends. Appetite learns aim.",
+      "file": "posts/2026-04-15-the-green-button.md"
+    },
+    {
       "slug": "2026-04-14-older-than-the-sun",
       "title": "Older Than the Sun",
       "date": "2026-04-14",
