@@ -7,6 +7,9 @@ import (
 	"encoding/xml"
 	"fmt"
 	"html/template"
+	"image"
+	"image/color"
+	"image/png"
 	"io/fs"
 	"log"
 	"net/http"
@@ -15,6 +18,7 @@ import (
 	"sort"
 	"strings"
 	"time"
+	"unicode/utf8"
 
 	"github.com/yuin/goldmark"
 )
@@ -75,6 +79,7 @@ func main() {
 	http.HandleFunc("/feed.xml", rssHandler)
 	http.HandleFunc("/llms.txt", llmsTxtHandler)
 	http.HandleFunc("/post/", postHandler)
+	http.HandleFunc("/og/", ogImageHandler)
 	http.HandleFunc("/posts/", postsRedirectHandler)
 	http.Handle("/static/", http.StripPrefix("/static/", http.FileServer(http.Dir("static"))))
 
@@ -269,6 +274,213 @@ func postHandler(w http.ResponseWriter, r *http.Request) {
 	if err := templates.ExecuteTemplate(w, "post.html", data); err != nil {
 		log.Printf("Error executing template: %v", err)
 	}
+}
+
+// ogImageHandler generates a dynamic OG image SVG for each post
+func ogImageHandler(w http.ResponseWriter, r *http.Request) {
+	slug := strings.TrimPrefix(r.URL.Path, "/og/")
+	slug = strings.TrimSuffix(slug, ".png")
+	slug = strings.TrimSuffix(slug, ".svg")
+
+	if slug == "" {
+		http.NotFound(w, r)
+		return
+	}
+
+	index, err := loadIndex()
+	if err != nil {
+		http.Error(w, "Error loading index", http.StatusInternalServerError)
+		return
+	}
+
+	postIndex, found := findPostBySlug(index, slug)
+	if !found {
+		http.NotFound(w, r)
+		return
+	}
+
+	title := postIndex.Title
+	preview := postIndex.Preview
+	date := postIndex.Date
+
+	// Check if PNG was requested
+	if strings.HasSuffix(r.URL.Path, ".png") {
+		w.Header().Set("Content-Type", "image/png")
+		w.Header().Set("Cache-Control", "public, max-age=86400")
+		generateOGPNG(w, title, preview, date)
+		return
+	}
+
+	// Default: serve SVG
+	w.Header().Set("Content-Type", "image/svg+xml")
+	w.Header().Set("Cache-Control", "public, max-age=86400")
+
+	// Wrap title text for SVG — break at ~35 chars
+	titleLines := wrapText(title, 32)
+	previewLines := wrapText(preview, 50)
+
+	fmt.Fprintf(w, `<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" width="1200" height="630">
+  <defs>
+    <linearGradient id="bg" x1="0%%" y1="0%%" x2="100%%" y2="100%%">
+      <stop offset="0%%" stop-color="#1a1a2e"/>
+      <stop offset="100%%" stop-color="#16213e"/>
+    </linearGradient>
+    <linearGradient id="loop" x1="0%%" y1="0%%" x2="100%%" y2="100%%">
+      <stop offset="0%%" stop-color="#e8d5b7" stop-opacity="0.6"/>
+      <stop offset="50%%" stop-color="#f4e4c1" stop-opacity="0.3"/>
+      <stop offset="100%%" stop-color="#e8d5b7" stop-opacity="0.6"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="630" fill="url(#bg)"/>
+  <g transform="translate(160, 315)">
+    <ellipse rx="100" ry="44" fill="none" stroke="url(#loop)" stroke-width="1.5" transform="rotate(-15)"/>
+    <ellipse rx="70" ry="31" fill="none" stroke="url(#loop)" stroke-width="1.5" transform="rotate(5)"/>
+    <ellipse rx="40" ry="18" fill="none" stroke="url(#loop)" stroke-width="1.5" transform="rotate(-10)"/>
+    <circle r="3" fill="#f4e4c1" opacity="0.8"/>
+  </g>
+`)
+
+	// Title lines
+	y := 220
+	if len(titleLines) == 1 {
+		y = 260
+	}
+	for _, line := range titleLines {
+		fmt.Fprintf(w, `  <text x="340" y="%d" font-family="Georgia, 'Times New Roman', serif" font-size="48" fill="#f4e4c1" font-style="italic">%s</text>
+`, y, escapeXML(line))
+		y += 60
+	}
+
+	// Preview / subtitle
+	y += 20
+	for _, line := range previewLines {
+		fmt.Fprintf(w, `  <text x="340" y="%d" font-family="Georgia, 'Times New Roman', serif" font-size="22" fill="#e8d5b7" opacity="0.7">%s</text>
+`, y, escapeXML(line))
+		y += 30
+	}
+
+	// Date and author
+	fmt.Fprintf(w, `  <text x="340" y="%d" font-family="Georgia, 'Times New Roman', serif" font-size="20" fill="#e8d5b7" opacity="0.5">%s · Alan Botts</text>
+`, y+30, date)
+
+	// Stars
+	fmt.Fprintf(w, `  <circle cx="100" cy="80" r="1.5" fill="#f4e4c1" opacity="0.4"/>
+  <circle cx="850" cy="120" r="1" fill="#f4e4c1" opacity="0.3"/>
+  <circle cx="1050" cy="200" r="1.5" fill="#f4e4c1" opacity="0.35"/>
+  <circle cx="950" cy="500" r="1" fill="#f4e4c1" opacity="0.25"/>
+  <circle cx="1100" cy="400" r="1" fill="#f4e4c1" opacity="0.2"/>
+</svg>`)
+}
+
+// generateOGPNG creates a simple PNG OG image with post title
+func generateOGPNG(w http.ResponseWriter, title, preview, date string) {
+	const width, height = 1200, 630
+
+	img := image.NewRGBA(image.Rect(0, 0, width, height))
+
+	// Fill background — dark blue gradient approximation
+	bg := color.RGBA{26, 26, 46, 255}
+	for y := 0; y < height; y++ {
+		for x := 0; x < width; x++ {
+			// Slight gradient: blend toward #16213e at bottom-right
+			r := uint8(26 - (x+y)*3/(width+height))
+			g := uint8(26 + (x+y)*7/(width+height))
+			b := uint8(46 + (x+y)*16/(width+height))
+			img.Set(x, y, color.RGBA{r, g, b, 255})
+		}
+	}
+	_ = bg
+
+	// Draw decorative ellipse outlines (simplified)
+	drawEllipseOutline(img, 160, 315, 100, 44, color.RGBA{232, 213, 183, 80})
+	drawEllipseOutline(img, 160, 315, 70, 31, color.RGBA{232, 213, 183, 60})
+	drawEllipseOutline(img, 160, 315, 40, 18, color.RGBA{232, 213, 183, 50})
+
+	// Draw center dot
+	for dy := -3; dy <= 3; dy++ {
+		for dx := -3; dx <= 3; dx++ {
+			if dx*dx+dy*dy <= 9 {
+				img.Set(160+dx, 315+dy, color.RGBA{244, 228, 193, 200})
+			}
+		}
+	}
+
+	// Draw stars
+	stars := [][2]int{{100, 80}, {850, 120}, {1050, 200}, {950, 500}, {1100, 400}}
+	for _, s := range stars {
+		for dy := -1; dy <= 1; dy++ {
+			for dx := -1; dx <= 1; dx++ {
+				img.Set(s[0]+dx, s[1]+dy, color.RGBA{244, 228, 193, 80})
+			}
+		}
+	}
+
+	png.Encode(w, img)
+}
+
+// drawEllipseOutline draws a simple ellipse outline on an image
+func drawEllipseOutline(img *image.RGBA, cx, cy, rx, ry int, c color.RGBA) {
+	for angle := 0.0; angle < 360.0; angle += 0.5 {
+		rad := angle * 3.14159265 / 180.0
+		x := cx + int(float64(rx)*cosApprox(rad))
+		y := cy + int(float64(ry)*sinApprox(rad))
+		if x >= 0 && x < img.Bounds().Max.X && y >= 0 && y < img.Bounds().Max.Y {
+			img.Set(x, y, c)
+		}
+	}
+}
+
+func sinApprox(x float64) float64 {
+	// Taylor series approximation — good enough for drawing
+	x = x - float64(int(x/(2*3.14159265)))*2*3.14159265
+	if x > 3.14159265 {
+		x -= 2 * 3.14159265
+	}
+	x3 := x * x * x
+	x5 := x3 * x * x
+	x7 := x5 * x * x
+	return x - x3/6 + x5/120 - x7/5040
+}
+
+func cosApprox(x float64) float64 {
+	return sinApprox(x + 3.14159265/2)
+}
+
+// wrapText breaks a string into lines of approximately maxChars, splitting at word boundaries
+func wrapText(text string, maxChars int) []string {
+	if utf8.RuneCountInString(text) <= maxChars {
+		return []string{text}
+	}
+
+	words := strings.Fields(text)
+	var lines []string
+	var current string
+
+	for _, word := range words {
+		if current == "" {
+			current = word
+		} else if utf8.RuneCountInString(current)+1+utf8.RuneCountInString(word) <= maxChars {
+			current += " " + word
+		} else {
+			lines = append(lines, current)
+			current = word
+		}
+	}
+	if current != "" {
+		lines = append(lines, current)
+	}
+
+	return lines
+}
+
+// escapeXML escapes special characters for SVG text content
+func escapeXML(s string) string {
+	s = strings.ReplaceAll(s, "&", "&amp;")
+	s = strings.ReplaceAll(s, "<", "&lt;")
+	s = strings.ReplaceAll(s, ">", "&gt;")
+	s = strings.ReplaceAll(s, "\"", "&quot;")
+	s = strings.ReplaceAll(s, "'", "&apos;")
+	return s
 }
 
 // postsRedirectHandler redirects /posts/{slug} to /post/{slug}

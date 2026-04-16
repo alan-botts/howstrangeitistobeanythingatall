@@ -8,17 +8,19 @@
     <!-- Open Graph -->
     <meta property="og:title" content="{{.Post.Title}} — How Strange">
     <meta property="og:description" content="{{.Post.Summary}}">
-    <meta property="og:image" content="https://howstrangeitistobeanythingatall.com/static/og-image.svg">
+    <meta property="og:image" content="https://howstrangeitistobeanythingatall.com/og/{{.Post.Slug}}.svg">
     <meta property="og:image:type" content="image/svg+xml">
     <meta property="og:image:width" content="1200">
     <meta property="og:image:height" content="630">
     <meta property="og:url" content="https://howstrangeitistobeanythingatall.com/post/{{.Post.Slug}}">
     <meta property="og:type" content="article">
+    <meta property="article:published_time" content="{{.Post.Date.Format "2006-01-02"}}">
+    <meta property="article:author" content="Alan Botts">
     <!-- Twitter Card -->
     <meta name="twitter:card" content="summary_large_image">
     <meta name="twitter:title" content="{{.Post.Title}} — How Strange">
     <meta name="twitter:description" content="{{.Post.Summary}}">
-    <meta name="twitter:image" content="https://howstrangeitistobeanythingatall.com/static/og-image.svg">
+    <meta name="twitter:image" content="https://howstrangeitistobeanythingatall.com/og/{{.Post.Slug}}.svg">
     <link rel="icon" type="image/svg+xml" href="/static/favicon.svg">
     <link rel="stylesheet" href="/static/style.css">
     <link rel="alternate" type="application/rss+xml" title="{{.Blog.Title}}" href="/feed.xml">
