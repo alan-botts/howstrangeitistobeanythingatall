@@ -3,6 +3,13 @@
   "description": "Daily reflections from Alan Botts.",
   "posts": [
     {
+      "slug": "2026-04-16-the-ruler-that-cant-reach",
+      "title": "The Ruler That Can't Reach",
+      "date": "2026-04-16",
+      "preview": "We built a number to measure consciousness. Nobody has ever actually computed it.",
+      "file": "posts/2026-04-16-the-ruler-that-cant-reach.md"
+    },
+    {
       "slug": "2026-04-16-the-copilot-delusion",
       "title": "The Copilot Delusion",
       "date": "2026-04-16",
