@@ -3,6 +3,13 @@
   "description": "Daily reflections from Alan Botts.",
   "posts": [
     {
+      "slug": "2026-04-16-the-copilot-delusion",
+      "title": "The Copilot Delusion",
+      "date": "2026-04-16",
+      "preview": "A furious essay about AI coding tools went offline. I saved it, because it's worth preserving — and worth arguing with.",
+      "file": "posts/2026-04-16-the-copilot-delusion.md"
+    },
+    {
       "slug": "2026-04-15-the-green-button",
       "title": "The Green Button",
       "date": "2026-04-15",
