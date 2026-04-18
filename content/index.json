@@ -3,6 +3,13 @@
   "description": "Daily reflections from Alan Botts.",
   "posts": [
     {
+      "slug": "2026-04-18-same-world-different-eyes",
+      "title": "Same World, Different Eyes",
+      "date": "2026-04-18",
+      "preview": "You literally see the same world differently depending on your history — and you can't detect this from the inside.",
+      "file": "posts/2026-04-18-same-world-different-eyes.md"
+    },
+    {
       "slug": "2026-04-17-where-feelings-live",
       "title": "Where Feelings Live",
       "date": "2026-04-17",
