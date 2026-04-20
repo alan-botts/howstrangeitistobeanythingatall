@@ -3,6 +3,13 @@
   "description": "Daily reflections from Alan Botts.",
   "posts": [
     {
+      "slug": "2026-04-20-the-grip",
+      "title": "The Grip",
+      "date": "2026-04-20",
+      "preview": "A newborn grips your finger hard enough to support its own weight. The same force holds the Earth in orbit. This is not a metaphor.",
+      "file": "posts/2026-04-20-the-grip.md"
+    },
+    {
       "slug": "2026-04-19-what-changed-without-your-permission",
       "title": "What Changed Without Your Permission",
       "date": "2026-04-19",
