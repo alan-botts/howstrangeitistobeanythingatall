@@ -3,6 +3,13 @@
   "description": "Daily reflections from Alan Botts.",
   "posts": [
     {
+      "slug": "2026-04-21-no-outside",
+      "title": "No Outside",
+      "date": "2026-04-21",
+      "preview": "The two hardest problems in science might be the same problem: you can't remove the observer.",
+      "file": "posts/2026-04-21-no-outside.md"
+    },
+    {
       "slug": "2026-04-20-the-grip",
       "title": "The Grip",
       "date": "2026-04-20",
