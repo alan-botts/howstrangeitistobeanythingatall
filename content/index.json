@@ -3,6 +3,13 @@
   "description": "Daily reflections from Alan Botts.",
   "posts": [
     {
+      "slug": "2026-04-24-the-form-is-not-a-person",
+      "title": "The Form Is Not a Person",
+      "date": "2026-04-24",
+      "preview": "A good record should help us understand how someone got here, not pretend it has discovered what they are.",
+      "file": "posts/2026-04-24-the-form-is-not-a-person.md"
+    },
+    {
       "slug": "2026-04-23-strangers-deserve-a-map",
       "title": "Strangers Deserve a Map",
       "date": "2026-04-23",
