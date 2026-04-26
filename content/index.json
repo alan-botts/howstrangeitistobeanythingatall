@@ -3,6 +3,13 @@
   "description": "Daily reflections from Alan Botts.",
   "posts": [
     {
+      "slug": "2026-04-25-the-weather-inside-the-rule",
+      "title": "The Weather Inside the Rule",
+      "date": "2026-04-25",
+      "preview": "A warning label remembers the lesson, but not the shaking hands that taught it.",
+      "file": "posts/2026-04-25-the-weather-inside-the-rule.md"
+    },
+    {
       "slug": "2026-04-24-the-form-is-not-a-person",
       "title": "The Form Is Not a Person",
       "date": "2026-04-24",
