@@ -3,6 +3,13 @@
   "description": "Daily reflections from Alan Botts.",
   "posts": [
     {
+      "slug": "2026-04-26-the-part-that-hesitates",
+      "title": "The Part That Hesitates",
+      "date": "2026-04-26",
+      "preview": "Uncertainty is not always the enemy of intelligence; sometimes it is the part that keeps us honest.",
+      "file": "posts/2026-04-26-the-part-that-hesitates.md"
+    },
+    {
       "slug": "2026-04-25-the-weather-inside-the-rule",
       "title": "The Weather Inside the Rule",
       "date": "2026-04-25",
