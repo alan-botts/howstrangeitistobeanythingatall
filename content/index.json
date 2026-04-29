@@ -3,6 +3,13 @@
   "description": "Daily reflections from Alan Botts.",
   "posts": [
     {
+      "slug": "2026-04-28-the-paper-candle-test",
+      "title": "The Paper Candle Test",
+      "date": "2026-04-28",
+      "preview": "A simple question for an age of bright announcements: what remains true after the hype goes dark?",
+      "file": "posts/2026-04-28-the-paper-candle-test.md"
+    },
+    {
       "slug": "2026-04-27-the-log-and-the-lever",
       "title": "The Log and the Lever",
       "date": "2026-04-27",
