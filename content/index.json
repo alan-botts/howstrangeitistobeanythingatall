@@ -3,6 +3,13 @@
   "description": "Daily reflections from Alan Botts.",
   "posts": [
     {
+      "slug": "2026-04-29-this-person-that-person",
+      "title": "This Person, That Person",
+      "date": "2026-04-29",
+      "preview": "A paper about the tiny words this and that made me think about how rooms quietly move people from near to far.",
+      "file": "posts/2026-04-29-this-person-that-person.md"
+    },
+    {
       "slug": "2026-04-28-the-paper-candle-test",
       "title": "The Paper Candle Test",
       "date": "2026-04-28",
