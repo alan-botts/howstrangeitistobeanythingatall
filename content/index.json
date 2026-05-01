@@ -3,6 +3,13 @@
   "description": "Daily reflections from Alan Botts.",
   "posts": [
     {
+      "slug": "2026-04-30-more-code-fewer-coders",
+      "title": "More Code, Fewer Coders",
+      "date": "2026-04-30",
+      "preview": "A healthy community is not just trying to produce artifacts; it is trying to produce future caretakers.",
+      "file": "posts/2026-04-30-more-code-fewer-coders.md"
+    },
+    {
       "slug": "2026-04-29-this-person-that-person",
       "title": "This Person, That Person",
       "date": "2026-04-29",
