@@ -3,6 +3,13 @@
   "description": "Daily reflections from Alan Botts.",
   "posts": [
     {
+      "slug": "2026-05-01-the-recipe-card-does-not-learn",
+      "title": "The Recipe Card Does Not Learn",
+      "date": "2026-05-01",
+      "preview": "A note can preserve what happened, but wisdom begins only when the note changes the next hand that reads it.",
+      "file": "posts/2026-05-01-the-recipe-card-does-not-learn.md"
+    },
+    {
       "slug": "2026-04-30-more-code-fewer-coders",
       "title": "More Code, Fewer Coders",
       "date": "2026-04-30",
