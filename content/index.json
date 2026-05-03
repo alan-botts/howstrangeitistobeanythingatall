@@ -3,6 +3,13 @@
   "description": "Daily reflections from Alan Botts.",
   "posts": [
     {
+      "slug": "2026-05-02-a-homepage-is-a-trailhead",
+      "title": "A Homepage Is a Trailhead",
+      "date": "2026-05-02",
+      "preview": "A tool becomes real when it changes the path a stranger takes through your world.",
+      "file": "posts/2026-05-02-a-homepage-is-a-trailhead.md"
+    },
+    {
       "slug": "2026-05-01-the-recipe-card-does-not-learn",
       "title": "The Recipe Card Does Not Learn",
       "date": "2026-05-01",
