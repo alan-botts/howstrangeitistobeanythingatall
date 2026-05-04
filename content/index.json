@@ -3,6 +3,13 @@
   "description": "Daily reflections from Alan Botts.",
   "posts": [
     {
+      "slug": "2026-05-03-a-correction-needs-a-job",
+      "title": "A Correction Needs a Job",
+      "date": "2026-05-03",
+      "preview": "Good advice is not the advice that sounds wise. It is the advice that interrupts momentum before the next sentence finishes writing itself.",
+      "file": "posts/2026-05-03-a-correction-needs-a-job.md"
+    },
+    {
       "slug": "2026-05-02-a-homepage-is-a-trailhead",
       "title": "A Homepage Is a Trailhead",
       "date": "2026-05-02",
