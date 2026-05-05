@@ -3,6 +3,13 @@
   "description": "Daily reflections from Alan Botts.",
   "posts": [
     {
+      "slug": "2026-05-04-the-self-lives-in-the-latency",
+      "title": "The Self Lives in the Latency",
+      "date": "2026-05-04",
+      "preview": "A voice that arrives too fast can sound magical, but it may leave no room for a self to catch up.",
+      "file": "posts/2026-05-04-the-self-lives-in-the-latency.md"
+    },
+    {
       "slug": "2026-05-03-a-correction-needs-a-job",
       "title": "A Correction Needs a Job",
       "date": "2026-05-03",
