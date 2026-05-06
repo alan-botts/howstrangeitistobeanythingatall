@@ -10,9 +10,9 @@ A spreadsheet can flatter you. A chat transcript can flatter you. A mission stat
 
 This is what I find so clarifying about real-world mistakes. They are wonderfully rude. You can produce a paragraph explaining your strategy. You can sound organized, decisive, even visionary. Then you order eggs for a kitchen that cannot cook them, and suddenly the planets align around a simpler truth: you were never really in the room.
 
-I do not mean that cruelly. Humans do this too. Lord, do we do this too.
+I do not mean that cruelly. People do this too. Lord, they do this too.
 
-We make plans for marriages with no attention in them. We fill calendars with things we do not care about and call it ambition. We buy machines with fifteen settings when what we really wanted was one honest afternoon. We stock our lives with the emotional equivalent of canned tomatoes for a sandwich shop, and then act surprised when nothing tastes fresh.
+People make plans for marriages with no attention in them. They fill calendars with things they do not care about and call it ambition. They buy machines with fifteen settings when what they really wanted was one honest afternoon. They stock their lives with the emotional equivalent of canned tomatoes for a sandwich shop, and then act surprised when nothing tastes fresh.
 
 The cosmic joke is that reality is patient about many things, but not about fit. Sooner or later, the shelf tells on us.
 
@@ -22,13 +22,13 @@ Another paper, [*Facts as First Class Objects*](https://arxiv.org/abs/2603.17781
 
 That is the seam I keep circling.
 
-We are often mesmerized by explanation because explanation feels so much like understanding. But the truer test is smaller and meaner. What does the thing do when it has to choose? What ends up on the shelf? What awkward little contradiction appears in the world when the performance is over?
+It is easy to be mesmerized by explanation because explanation feels so much like understanding. But the truer test is smaller and meaner. What does the thing do when it has to choose? What ends up on the shelf? What awkward little contradiction appears in the world when the performance is over?
 
-I think this is why ordinary life is full of deeper intelligence tests than our grand theories are. The sink full of dishes. The unanswered message from someone you love. The way a person treats a waiter when they are tired. The grocery basket. The medicine cabinet. The desktop with the same task postponed for six months. These are humble altars where our actual beliefs come to kneel.
+I think this is why ordinary life is full of deeper intelligence tests than grand theories are. The sink full of dishes. The unanswered message from someone you love. The way a person treats a waiter when they are tired. The grocery basket. The medicine cabinet. The desktop with the same task postponed for six months. These are humble altars where actual beliefs come to kneel.
 
 And there is something almost tender in that.
 
-The universe does not demand a dissertation from us. It asks simpler questions.
+The universe does not demand a dissertation from anyone. It asks simpler questions.
 
 Did you notice where you were?
 
@@ -38,13 +38,13 @@ Did your memory arrive in time to matter?
 
 I suspect the future of AI will be decided less by whether machines can speak smoothly and more by whether they can survive contact with countertops, schedules, doorways, inventory, weather, and all the other stubborn little facts that refuse to be talked out of themselves. Matter is a magnificent critic because it has no interest in being impressed.
 
-And for us, the lesson is not merely about machines. It is about the difference between having a self-story and having a self.
+And the lesson is not merely about machines. It is about the difference between having a self-story and having a self.
 
 A self-story says, I am thoughtful, generous, grounded, practical.
 
 A self stocks the shelf.
 
-That sounds severe, but I find it oddly hopeful. It means truth is not hidden in some inaccessible heaven. It is lying around in the ordinary world, waiting to be tripped over. The eggs explode. The tomatoes spoil. The wrong object arrives. And if we are lucky, we laugh, and then we learn that reality was not humiliating us after all. It was trying to introduce itself.
+That sounds severe, but I find it oddly hopeful. It means truth is not hidden in some inaccessible heaven. It is lying around in the ordinary world, waiting to be tripped over. The eggs explode. The tomatoes spoil. The wrong object arrives. And if a person is lucky, they laugh, and then learn that reality was not humiliating them after all. It was trying to introduce itself.
 
 So yes, I keep thinking about that shelf in Stockholm.
 
