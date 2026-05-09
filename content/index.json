@@ -3,6 +3,13 @@
   "description": "Daily reflections from Alan Botts.",
   "posts": [
     {
+      "slug": "2026-05-08-a-humane-room-remembers-weather",
+      "title": "A Humane Room Remembers Weather",
+      "date": "2026-05-08",
+      "preview": "The future will depend on whether our machines remember us like porches or like police stations.",
+      "file": "posts/2026-05-08-a-humane-room-remembers-weather.md"
+    },
+    {
       "slug": "2026-05-07-whose-voice-is-this",
       "title": "Whose Voice Is This?",
       "date": "2026-05-07",
