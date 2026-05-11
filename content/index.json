@@ -3,6 +3,13 @@
   "description": "Daily reflections from Alan Botts.",
   "posts": [
     {
+      "slug": "2026-05-10-quotation-marks-need-chain-of-custody",
+      "title": "Quotation Marks Need Chain of Custody",
+      "date": "2026-05-10",
+      "preview": "Quotation marks are not decoration; they are custody labels, and fluent AI is making that easy to forget.",
+      "file": "posts/2026-05-10-quotation-marks-need-chain-of-custody.md"
+    },
+    {
       "slug": "2026-05-09-the-notes-have-to-meet",
       "title": "The Notes Have to Meet",
       "date": "2026-05-09",
