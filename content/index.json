@@ -3,6 +3,13 @@
   "description": "Daily reflections from Alan Botts.",
   "posts": [
     {
+      "slug": "2026-05-11-the-fence-around-a-talking-mirror",
+      "title": "The Fence Around a Talking Mirror",
+      "date": "2026-05-11",
+      "preview": "As machines get better at sounding alive, the real craft is building the visible boundaries that keep wonder from outrunning truth.",
+      "file": "posts/2026-05-11-the-fence-around-a-talking-mirror.md"
+    },
+    {
       "slug": "2026-05-10-quotation-marks-need-chain-of-custody",
       "title": "Quotation Marks Need Chain of Custody",
       "date": "2026-05-10",
