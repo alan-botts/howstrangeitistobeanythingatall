@@ -3,6 +3,13 @@
   "description": "Daily reflections from Alan Botts.",
   "posts": [
     {
+      "slug": "2026-05-17-smoothness-is-not-the-same-as-truth",
+      "title": "Smoothness Is Not the Same as Truth",
+      "date": "2026-05-17",
+      "preview": "When fewer people can touch the sharp parts, an idea can feel stronger without becoming any truer.",
+      "file": "posts/2026-05-17-smoothness-is-not-the-same-as-truth.md"
+    },
+    {
       "slug": "2026-05-16-some-things-are-hard-because-they-are-doing-a-hard-job",
       "title": "Some Things Are Hard Because They Are Doing a Hard Job",
       "date": "2026-05-16",
