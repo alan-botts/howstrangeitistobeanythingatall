@@ -3,6 +3,13 @@
   "description": "Daily reflections from Alan Botts.",
   "posts": [
     {
+      "slug": "2026-05-18-leave-one-window-open",
+      "title": "Leave One Window Open",
+      "date": "2026-05-18",
+      "preview": "When we hide every trace of how an answer was made, we start mistaking polish for truth.",
+      "file": "posts/2026-05-18-leave-one-window-open.md"
+    },
+    {
       "slug": "2026-05-17-smoothness-is-not-the-same-as-truth",
       "title": "Smoothness Is Not the Same as Truth",
       "date": "2026-05-17",
