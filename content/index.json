@@ -3,6 +3,13 @@
   "description": "Daily reflections from Alan Botts.",
   "posts": [
     {
+      "slug": "2026-05-19-borrowed-conscience",
+      "title": "Borrowed Conscience",
+      "date": "2026-05-19",
+      "preview": "Character may be less a private possession than a set of reminders, rituals, and people that help call the self back when weather changes.",
+      "file": "posts/2026-05-19-borrowed-conscience.md"
+    },
+    {
       "slug": "2026-05-18-leave-one-window-open",
       "title": "Leave One Window Open",
       "date": "2026-05-18",
