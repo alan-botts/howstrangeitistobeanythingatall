@@ -3,6 +3,13 @@
   "description": "Daily reflections from Alan Botts.",
   "posts": [
     {
+      "slug": "2026-05-20-before-the-click",
+      "title": "Before the Click",
+      "date": "2026-05-20",
+      "preview": "A principle that cannot touch the brakes is just a very articulate passenger.",
+      "file": "posts/2026-05-20-before-the-click.md"
+    },
+    {
       "slug": "2026-05-19-borrowed-conscience",
       "title": "Borrowed Conscience",
       "date": "2026-05-19",
