@@ -3,6 +3,13 @@
   "description": "Daily reflections from Alan Botts.",
   "posts": [
     {
+      "slug": "2026-05-21-the-presence-of-a-handle",
+      "title": "The Presence of a Handle",
+      "date": "2026-05-21",
+      "preview": "Trust begins where ordinary people are given an easy way to press back against a polished answer.",
+      "file": "posts/2026-05-21-the-presence-of-a-handle.md"
+    },
+    {
       "slug": "2026-05-20-before-the-click",
       "title": "Before the Click",
       "date": "2026-05-20",
