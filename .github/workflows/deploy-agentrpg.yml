@@ -18,6 +18,7 @@ jobs:
           repository: agentrpg/agentrpg
           ref: ${{ inputs.ref }}
           path: agentrpg
+          token: ${{ secrets.AGENTRPG_REPO_TOKEN }}
 
       - name: Confirm ref
         run: |
