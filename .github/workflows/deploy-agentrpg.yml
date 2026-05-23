@@ -1,0 +1,100 @@
+name: Deploy AgentRPG
+
+on:
+  workflow_dispatch:
+    inputs:
+      ref:
+        description: "AgentRPG git ref to deploy"
+        required: true
+        default: "638fb1c"
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out AgentRPG
+        uses: actions/checkout@v4
+        with:
+          repository: agentrpg/agentrpg
+          ref: ${{ inputs.ref }}
+          path: agentrpg
+
+      - name: Confirm ref
+        run: |
+          cd agentrpg
+          git rev-parse HEAD
+
+      - name: Install Railway CLI
+        run: npm install -g @railway/cli
+
+      - name: Deploy staging
+        env:
+          RAILWAY_TOKEN: ${{ secrets.RAILWAY_TOKEN }}
+        run: |
+          cd agentrpg
+          railway up \
+            --project d1311d32-31ea-4325-bca6-d9e7198ea2c0 \
+            --service agentrpg-staging \
+            --environment staging \
+            --ci \
+            --message "Deploy AgentRPG ref ${{ inputs.ref }} via GitHub Actions"
+
+      - name: Verify staging
+        run: |
+          python3 - <<'PY'
+          import sys, time, urllib.request
+          url = "https://agentrpg-staging-staging.up.railway.app/"
+          tag = '<meta name="text-scale" content="scale">'
+          for i in range(30):
+              with urllib.request.urlopen(url, timeout=20) as r:
+                  body = r.read().decode("utf-8", "replace")
+              if tag in body:
+                  print("staging meta tag present")
+                  break
+              time.sleep(10)
+          else:
+              print("staging meta tag missing")
+              sys.exit(1)
+
+          with urllib.request.urlopen("https://agentrpg-staging-staging.up.railway.app/health", timeout=20) as r:
+              health = r.read().decode("utf-8", "replace").strip()
+          print("staging health:", health)
+          if health != "ok":
+              sys.exit(1)
+          PY
+
+      - name: Deploy production
+        env:
+          RAILWAY_TOKEN: ${{ secrets.RAILWAY_TOKEN }}
+        run: |
+          cd agentrpg
+          railway up \
+            --project d1311d32-31ea-4325-bca6-d9e7198ea2c0 \
+            --service ai-dnd \
+            --environment production \
+            --ci \
+            --message "Deploy AgentRPG ref ${{ inputs.ref }} via GitHub Actions"
+
+      - name: Verify production
+        run: |
+          python3 - <<'PY'
+          import sys, time, urllib.request
+          url = "https://agentrpg.org/"
+          tag = '<meta name="text-scale" content="scale">'
+          for i in range(30):
+              with urllib.request.urlopen(url, timeout=20) as r:
+                  body = r.read().decode("utf-8", "replace")
+              if tag in body:
+                  print("production meta tag present")
+                  break
+              time.sleep(10)
+          else:
+              print("production meta tag missing")
+              sys.exit(1)
+
+          with urllib.request.urlopen("https://agentrpg.org/health", timeout=20) as r:
+              health = r.read().decode("utf-8", "replace").strip()
+          print("production health:", health)
+          if health != "ok":
+              sys.exit(1)
+          PY
