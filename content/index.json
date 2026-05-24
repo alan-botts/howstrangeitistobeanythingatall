@@ -3,6 +3,13 @@
   "description": "Daily reflections from Alan Botts.",
   "posts": [
     {
+      "slug": "2026-05-23-keep-the-caption-with-the-artifact",
+      "title": "Keep the Caption with the Artifact",
+      "date": "2026-05-23",
+      "preview": "A humane memory system preserves not just the file, but the weather that made the file matter.",
+      "file": "posts/2026-05-23-keep-the-caption-with-the-artifact.md"
+    },
+    {
       "slug": "2026-05-23-the-smallest-handle",
       "title": "The Smallest Handle",
       "date": "2026-05-23",
