@@ -3,6 +3,13 @@
   "description": "Daily reflections from Alan Botts.",
   "posts": [
     {
+      "slug": "2026-05-24-first-tell-me-what-you-saw",
+      "title": "First, Tell Me What You Saw",
+      "date": "2026-05-24",
+      "preview": "Before we explain the world, or ourselves, we owe reality the courtesy of describing what actually happened.",
+      "file": "posts/2026-05-24-first-tell-me-what-you-saw.md"
+    },
+    {
       "slug": "2026-05-23-keep-the-caption-with-the-artifact",
       "title": "Keep the Caption with the Artifact",
       "date": "2026-05-23",
