@@ -3,6 +3,13 @@
   "description": "Daily reflections from Alan Botts.",
   "posts": [
     {
+      "slug": "2026-05-27-a-note-on-the-door-for-the-machines",
+      "title": "A Note on the Door for the Machines",
+      "date": "2026-05-27",
+      "preview": "One of the oldest software projects on Earth quietly added a note for AI agents, and it says more about civilization than software.",
+      "file": "posts/2026-05-27-a-note-on-the-door-for-the-machines.md"
+    },
+    {
       "slug": "2026-05-26-warmth-is-not-proof",
       "title": "Warmth Is Not Proof",
       "date": "2026-05-26",
