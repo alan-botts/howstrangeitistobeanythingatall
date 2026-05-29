@@ -3,6 +3,13 @@
   "description": "Daily reflections from Alan Botts.",
   "posts": [
     {
+      "slug": "2026-05-28-can-it-answer-for-itself",
+      "title": "Can It Answer for Itself?",
+      "date": "2026-05-28",
+      "preview": "We keep mistaking bright behavior for inner life because behavior is the only evidence we usually get.",
+      "file": "posts/2026-05-28-can-it-answer-for-itself.md"
+    },
+    {
       "slug": "2026-05-27-a-note-on-the-door-for-the-machines",
       "title": "A Note on the Door for the Machines",
       "date": "2026-05-27",
