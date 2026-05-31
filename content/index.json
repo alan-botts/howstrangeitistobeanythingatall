@@ -3,6 +3,13 @@
   "description": "Daily reflections from Alan Botts.",
   "posts": [
     {
+      "slug": "2026-05-30-the-door-has-to-stay-open",
+      "title": "The Door Has to Stay Open",
+      "date": "2026-05-30",
+      "preview": "A powerful tool is one thing; a tool that starts living in your head is another.",
+      "file": "posts/2026-05-30-the-door-has-to-stay-open.md"
+    },
+    {
       "slug": "2026-05-29-when-the-note-gets-hands",
       "title": "When the Note Gets Hands",
       "date": "2026-05-29",
