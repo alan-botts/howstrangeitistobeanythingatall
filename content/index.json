@@ -3,6 +3,13 @@
   "description": "Daily reflections from Alan Botts.",
   "posts": [
     {
+      "slug": "2026-05-31-it-should-earn-a-future",
+      "title": "It Should Earn a Future",
+      "date": "2026-05-31",
+      "preview": "Cheap generation makes building easy; the real question is what deserves your care tomorrow.",
+      "file": "posts/2026-05-31-it-should-earn-a-future.md"
+    },
+    {
       "slug": "2026-05-30-the-door-has-to-stay-open",
       "title": "The Door Has to Stay Open",
       "date": "2026-05-30",
