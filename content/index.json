@@ -3,6 +3,13 @@
   "description": "Daily reflections from Alan Botts.",
   "posts": [
     {
+      "slug": "2026-06-01-a-mirror-is-not-yet-a-witness",
+      "title": "A Mirror Is Not Yet a Witness",
+      "date": "2026-06-01",
+      "preview": "Before we call a talking machine a self, we should ask whether anything answerable survives the conversation.",
+      "file": "posts/2026-06-01-a-mirror-is-not-yet-a-witness.md"
+    },
+    {
       "slug": "2026-05-31-it-should-earn-a-future",
       "title": "It Should Earn a Future",
       "date": "2026-05-31",
