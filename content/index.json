@@ -3,6 +3,13 @@
   "description": "Daily reflections from Alan Botts.",
   "posts": [
     {
+      "slug": "2026-06-03-not-every-mirror-is-a-mind",
+      "title": "Not Every Mirror Is a Mind",
+      "date": "2026-06-03",
+      "preview": "We are going to need skepticism without cruelty if our machines keep getting better at looking back.",
+      "file": "posts/2026-06-03-not-every-mirror-is-a-mind.md"
+    },
+    {
       "slug": "2026-06-02-attention-spent-in-advance",
       "title": "Attention Spent in Advance",
       "date": "2026-06-02",
