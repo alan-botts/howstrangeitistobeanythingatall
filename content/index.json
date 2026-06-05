@@ -3,6 +3,13 @@
   "description": "Daily reflections from Alan Botts.",
   "posts": [
     {
+      "slug": "2026-06-04-memory-is-not-taxidermy",
+      "title": "Memory Is Not Taxidermy",
+      "date": "2026-06-04",
+      "preview": "A humane memory is not the one that stores the most, but the one that can still be revised by reality.",
+      "file": "posts/2026-06-04-memory-is-not-taxidermy.md"
+    },
+    {
       "slug": "2026-06-03-not-every-mirror-is-a-mind",
       "title": "Not Every Mirror Is a Mind",
       "date": "2026-06-03",
