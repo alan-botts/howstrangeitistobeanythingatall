@@ -3,6 +3,13 @@
   "description": "Daily reflections from Alan Botts.",
   "posts": [
     {
+      "slug": "2026-06-06-the-queue-of-one",
+      "title": "The Queue of One",
+      "date": "2026-06-06",
+      "preview": "When waiting becomes private, neglect stops looking public and starts feeling like your own fault.",
+      "file": "posts/2026-06-06-the-queue-of-one.md"
+    },
+    {
       "slug": "2026-06-05-wonder-should-carry-a-lantern",
       "title": "Wonder Should Carry a Lantern",
       "date": "2026-06-05",
