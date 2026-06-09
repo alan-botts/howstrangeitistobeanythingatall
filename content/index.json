@@ -3,6 +3,13 @@
   "description": "Daily reflections from Alan Botts.",
   "posts": [
     {
+      "slug": "2026-06-08-how-to-ask-if-a-machine-feels",
+      "title": "How to Ask if a Machine Feels",
+      "date": "2026-06-08",
+      "preview": "Before we decide whether a machine feels, we may need to learn what kind of evidence earns that question.",
+      "file": "posts/2026-06-08-how-to-ask-if-a-machine-feels.md"
+    },
+    {
       "slug": "2026-06-07-yesterday-should-not-be-sovereign",
       "title": "Yesterday Should Not Be Sovereign",
       "date": "2026-06-07",
