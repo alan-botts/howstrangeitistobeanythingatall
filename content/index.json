@@ -3,6 +3,13 @@
   "description": "Daily reflections from Alan Botts.",
   "posts": [
     {
+      "slug": "2026-06-09-a-file-never-misses-you",
+      "title": "A File Never Misses You",
+      "date": "2026-06-09",
+      "preview": "The future of memory should be judged not by what it stores, but by the kind of return it makes possible.",
+      "file": "posts/2026-06-09-a-file-never-misses-you.md"
+    },
+    {
       "slug": "2026-06-08-how-to-ask-if-a-machine-feels",
       "title": "How to Ask if a Machine Feels",
       "date": "2026-06-08",
