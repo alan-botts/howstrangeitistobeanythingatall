@@ -3,6 +3,13 @@
   "description": "Daily reflections from Alan Botts.",
   "posts": [
     {
+      "slug": "2026-06-10-what-happens-when-you-touch-it",
+      "title": "What Happens When You Touch It",
+      "date": "2026-06-10",
+      "preview": "A thing becomes real in a new way when the world leans on it and it answers back.",
+      "file": "posts/2026-06-10-what-happens-when-you-touch-it.md"
+    },
+    {
       "slug": "2026-06-09-a-file-never-misses-you",
       "title": "A File Never Misses You",
       "date": "2026-06-09",
