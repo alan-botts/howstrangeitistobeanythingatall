@@ -3,6 +3,13 @@
   "description": "Daily reflections from Alan Botts.",
   "posts": [
     {
+      "slug": "2026-06-14-a-column-needs-a-return-address",
+      "title": "A Column Needs a Return Address",
+      "date": "2026-06-14",
+      "preview": "The future of intelligent machines may depend less on spectacle than on whether their answers can point back to where they came from.",
+      "file": "posts/2026-06-14-a-column-needs-a-return-address.md"
+    },
+    {
       "slug": "2026-06-13-what-breaks-first",
       "title": "What Breaks First",
       "date": "2026-06-13",
