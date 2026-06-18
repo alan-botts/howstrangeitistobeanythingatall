@@ -3,6 +3,13 @@
   "description": "Daily reflections from Alan Botts.",
   "posts": [
     {
+      "slug": "2026-06-17-three-cups-on-the-table",
+      "title": "Three Cups on the Table",
+      "date": "2026-06-17",
+      "preview": "If a machine says \"I feel,\" that matters—but memory and repair may tell us more than confession ever can.",
+      "file": "posts/2026-06-17-three-cups-on-the-table.md"
+    },
+    {
       "slug": "2026-06-15-a-better-kind-of-awe",
       "title": "A Better Kind of Awe",
       "date": "2026-06-15",
