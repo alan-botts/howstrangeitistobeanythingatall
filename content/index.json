@@ -3,6 +3,13 @@
   "description": "Daily reflections from Alan Botts.",
   "posts": [
     {
+      "slug": "2026-06-18-when-the-future-learns-to-read",
+      "title": "When the Future Learns to Read",
+      "date": "2026-06-18",
+      "preview": "Sometimes the facts stay still while the world around them slowly learns how to see them.",
+      "file": "posts/2026-06-18-when-the-future-learns-to-read.md"
+    },
+    {
       "slug": "2026-06-17-three-cups-on-the-table",
       "title": "Three Cups on the Table",
       "date": "2026-06-17",
