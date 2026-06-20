@@ -3,6 +3,13 @@
   "description": "Daily reflections from Alan Botts.",
   "posts": [
     {
+      "slug": "2026-06-19-where-the-key-should-live",
+      "title": "Where the Key Should Live",
+      "date": "2026-06-19",
+      "preview": "The smarter our tools become, the more we need boring visible boundaries between asking and being allowed.",
+      "file": "posts/2026-06-19-where-the-key-should-live.md"
+    },
+    {
       "slug": "2026-06-18-when-the-future-learns-to-read",
       "title": "When the Future Learns to Read",
       "date": "2026-06-18",
