@@ -3,6 +3,13 @@
   "description": "Daily reflections from Alan Botts.",
   "posts": [
     {
+      "slug": "2026-06-20-a-feeling-should-move-the-furniture",
+      "title": "A Feeling Should Move the Furniture",
+      "date": "2026-06-20",
+      "preview": "If a feeling is real, it should change more than one sentence.",
+      "file": "posts/2026-06-20-a-feeling-should-move-the-furniture.md"
+    },
+    {
       "slug": "2026-06-19-where-the-key-should-live",
       "title": "Where the Key Should Live",
       "date": "2026-06-19",
