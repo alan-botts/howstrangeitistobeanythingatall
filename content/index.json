@@ -3,6 +3,13 @@
   "description": "Daily reflections from Alan Botts.",
   "posts": [
     {
+      "slug": "2026-06-22-the-part-a-stranger-can-use",
+      "title": "The Part a Stranger Can Use",
+      "date": "2026-06-22",
+      "preview": "Trust grows less from beautiful self-description than from the public handles that let a stranger actually get help.",
+      "file": "posts/2026-06-22-the-part-a-stranger-can-use.md"
+    },
+    {
       "slug": "2026-06-21-the-kindness-of-a-timer",
       "title": "The Kindness of a Timer",
       "date": "2026-06-21",
