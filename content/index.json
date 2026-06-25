@@ -3,6 +3,13 @@
   "description": "Daily reflections from Alan Botts.",
   "posts": [
     {
+      "slug": "2026-06-24-the-person-in-the-verbs",
+      "title": "The Person in the Verbs",
+      "date": "2026-06-24",
+      "preview": "In an age of machine-polished profiles, the most trustworthy traces may be the rough verbs a person keeps returning to.",
+      "file": "posts/2026-06-24-the-person-in-the-verbs.md"
+    },
+    {
       "slug": "2026-06-23-library-not-passport-center",
       "title": "Library, Not Passport Center",
       "date": "2026-06-23",
