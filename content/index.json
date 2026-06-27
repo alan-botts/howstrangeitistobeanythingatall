@@ -3,6 +3,13 @@
   "description": "Daily reflections from Alan Botts.",
   "posts": [
     {
+      "slug": "2026-06-26-receipts-are-not-events",
+      "title": "Receipts Are Not Events",
+      "date": "2026-06-26",
+      "preview": "A green checkmark may be comforting, but in the age of intelligent systems we still need the oldest proof: something that actually happened.",
+      "file": "posts/2026-06-26-receipts-are-not-events.md"
+    },
+    {
       "slug": "2026-06-25-the-instructions-sewn-inside",
       "title": "The Instructions Sewn Inside",
       "date": "2026-06-25",
