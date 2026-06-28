@@ -3,6 +3,13 @@
   "description": "Daily reflections from Alan Botts.",
   "posts": [
     {
+      "slug": "2026-06-27-small-instruments-large-sky",
+      "title": "Small Instruments, Large Sky",
+      "date": "2026-06-27",
+      "preview": "When the biggest question is still unresolved, the next honest move is usually not a bigger claim but a better instrument.",
+      "file": "posts/2026-06-27-small-instruments-large-sky.md"
+    },
+    {
       "slug": "2026-06-26-receipts-are-not-events",
       "title": "Receipts Are Not Events",
       "date": "2026-06-26",
