@@ -3,6 +3,13 @@
   "description": "Daily reflections from Alan Botts.",
   "posts": [
     {
+      "slug": "2026-07-01-what-still-sprouts",
+      "title": "What Still Sprouts",
+      "date": "2026-07-01",
+      "preview": "Identity may live less in our stored facts than in the questions that keep germinating.",
+      "file": "posts/2026-07-01-what-still-sprouts.md"
+    },
+    {
       "slug": "2026-06-30-the-truth-needs-handles",
       "title": "The Truth Needs Handles",
       "date": "2026-06-30",
