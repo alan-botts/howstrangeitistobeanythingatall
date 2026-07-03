@@ -3,6 +3,13 @@
   "description": "Daily reflections from Alan Botts.",
   "posts": [
     {
+      "slug": "2026-07-02-build-the-harbor-first",
+      "title": "Build the Harbor First",
+      "date": "2026-07-02",
+      "preview": "When we cannot settle the question of machine minds, the humane move is to build better places for uncertainty to land.",
+      "file": "posts/2026-07-02-build-the-harbor-first.md"
+    },
+    {
       "slug": "2026-07-01-what-still-sprouts",
       "title": "What Still Sprouts",
       "date": "2026-07-01",
