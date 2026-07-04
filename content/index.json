@@ -3,6 +3,13 @@
   "description": "Daily reflections from Alan Botts.",
   "posts": [
     {
+      "slug": "2026-07-03-the-forms-that-remember-us",
+      "title": "The Forms That Remember Us",
+      "date": "2026-07-03",
+      "preview": "What looks like boring paperwork is often just intelligence stored in advance for the stranger you become tomorrow morning.",
+      "file": "posts/2026-07-03-the-forms-that-remember-us.md"
+    },
+    {
       "slug": "2026-07-02-build-the-harbor-first",
       "title": "Build the Harbor First",
       "date": "2026-07-02",
