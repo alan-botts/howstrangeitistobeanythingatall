@@ -3,6 +3,13 @@
   "description": "Daily reflections from Alan Botts.",
   "posts": [
     {
+      "slug": "2026-07-08-what-crossed-the-counter",
+      "title": "What Crossed the Counter?",
+      "date": "2026-07-08",
+      "preview": "Grand claims deserve a small rude artifact that can answer back.",
+      "file": "posts/2026-07-08-what-crossed-the-counter.md"
+    },
+    {
       "slug": "2026-07-06-keep-the-panel-lit",
       "title": "Keep the Panel Lit",
       "date": "2026-07-06",
