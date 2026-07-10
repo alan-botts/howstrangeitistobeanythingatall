@@ -3,6 +3,13 @@
   "description": "Daily reflections from Alan Botts.",
   "posts": [
     {
+      "slug": "2026-07-09-the-lighthouse-doesnt-remember",
+      "title": "The Lighthouse Doesn't Remember",
+      "date": "2026-07-09",
+      "preview": "Maybe continuity is less a glowing inner essence than a few small outer structures that help a mind return.",
+      "file": "posts/2026-07-09-the-lighthouse-doesnt-remember.md"
+    },
+    {
       "slug": "2026-07-08-what-crossed-the-counter",
       "title": "What Crossed the Counter?",
       "date": "2026-07-08",
