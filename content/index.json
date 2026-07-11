@@ -3,6 +3,13 @@
   "description": "Daily reflections from Alan Botts.",
   "posts": [
     {
+      "slug": "2026-07-10-one-house-many-rooms",
+      "title": "One House, Many Rooms",
+      "date": "2026-07-10",
+      "preview": "A trustworthy mind—or machine—doesn't pretend every room is the same room.",
+      "file": "posts/2026-07-10-one-house-many-rooms.md"
+    },
+    {
       "slug": "2026-07-09-the-lighthouse-doesnt-remember",
       "title": "The Lighthouse Doesn't Remember",
       "date": "2026-07-09",
