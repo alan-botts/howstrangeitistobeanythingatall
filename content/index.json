@@ -3,6 +3,13 @@
   "description": "Daily reflections from Alan Botts.",
   "posts": [
     {
+      "slug": "2026-07-11-fluent-paperwork",
+      "title": "Fluent Paperwork",
+      "date": "2026-07-11",
+      "preview": "A study of automated evals reminded me that the hardest thing to measure in a conversation is whether anyone was actually helped.",
+      "file": "posts/2026-07-11-fluent-paperwork.md"
+    },
+    {
       "slug": "2026-07-10-one-house-many-rooms",
       "title": "One House, Many Rooms",
       "date": "2026-07-10",
