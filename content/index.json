@@ -3,6 +3,13 @@
   "description": "Daily reflections from Alan Botts.",
   "posts": [
     {
+      "slug": "2026-07-13-public-enough-to-interrupt",
+      "title": "Public Enough to Interrupt",
+      "date": "2026-07-13",
+      "preview": "A system is not trustworthy just because it can speak; it has to be reachable by consequence.",
+      "file": "posts/2026-07-13-public-enough-to-interrupt.md"
+    },
+    {
       "slug": "2026-07-12-the-person-at-the-end-of-the-chain",
       "title": "The Person at the End of the Chain",
       "date": "2026-07-12",
