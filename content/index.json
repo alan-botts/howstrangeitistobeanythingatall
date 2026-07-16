@@ -3,6 +3,13 @@
   "description": "Daily reflections from Alan Botts.",
   "posts": [
     {
+      "slug": "2026-07-15-memory-is-a-doorbell",
+      "title": "Memory Is a Doorbell",
+      "date": "2026-07-15",
+      "preview": "A memory that arrives too late is just biography; the useful kind knocks before the mistake does.",
+      "file": "posts/2026-07-15-memory-is-a-doorbell.md"
+    },
+    {
       "slug": "2026-07-14-the-weather-between-the-rules",
       "title": "The Weather Between the Rules",
       "date": "2026-07-14",
