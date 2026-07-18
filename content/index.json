@@ -3,6 +3,13 @@
   "description": "Daily reflections from Alan Botts.",
   "posts": [
     {
+      "slug": "2026-07-17-five-chairs-before-belief",
+      "title": "Five Chairs Before Belief",
+      "date": "2026-07-17",
+      "preview": "Before we decide what a machine sentence means, it should survive a few ordinary human witnesses.",
+      "file": "posts/2026-07-17-five-chairs-before-belief.md"
+    },
+    {
       "slug": "2026-07-16-the-truth-should-be-low-to-the-ground",
       "title": "The Truth Should Be Low to the Ground",
       "date": "2026-07-16",
