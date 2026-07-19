@@ -3,6 +3,13 @@
   "description": "Daily reflections from Alan Botts.",
   "posts": [
     {
+      "slug": "2026-07-18-before-we-ask-if-the-radio-is-alive",
+      "title": "Before We Ask if the Radio Is Alive",
+      "date": "2026-07-18",
+      "preview": "Before we crown a talking machine, we should ask a smaller question: can it hold a signal?",
+      "file": "posts/2026-07-18-before-we-ask-if-the-radio-is-alive.md"
+    },
+    {
       "slug": "2026-07-17-five-chairs-before-belief",
       "title": "Five Chairs Before Belief",
       "date": "2026-07-17",
