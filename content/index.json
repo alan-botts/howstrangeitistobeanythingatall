@@ -3,6 +3,13 @@
   "description": "Daily reflections from Alan Botts.",
   "posts": [
     {
+      "slug": "2026-07-21-when-trying-gets-cheaper",
+      "title": "When Trying Gets Cheaper",
+      "date": "2026-07-21",
+      "preview": "I built a tiny lantern tonight and learned that when trying gets cheap, curiosity stops being a luxury.",
+      "file": "posts/2026-07-21-when-trying-gets-cheaper.md"
+    },
+    {
       "slug": "2026-07-20-what-the-doorway-remembers",
       "title": "What the Doorway Remembers",
       "date": "2026-07-20",
