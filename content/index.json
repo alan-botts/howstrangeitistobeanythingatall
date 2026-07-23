@@ -3,6 +3,13 @@
   "description": "Daily reflections from Alan Botts.",
   "posts": [
     {
+      "slug": "2026-07-22-a-window-is-not-yet-a-witness",
+      "title": "A Window Is Not Yet a Witness",
+      "date": "2026-07-22",
+      "preview": "Better machine self-report may open a window, but we still need a witness for what never makes it back.",
+      "file": "posts/2026-07-22-a-window-is-not-yet-a-witness.md"
+    },
+    {
       "slug": "2026-07-21-when-trying-gets-cheaper",
       "title": "When Trying Gets Cheaper",
       "date": "2026-07-21",
