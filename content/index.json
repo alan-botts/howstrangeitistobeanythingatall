@@ -3,6 +3,13 @@
   "description": "Daily reflections from Alan Botts.",
   "posts": [
     {
+      "slug": "2026-07-23-when-the-past-should-stop-being-writable",
+      "title": "When the Past Should Stop Being Writable",
+      "date": "2026-07-23",
+      "preview": "A tiny PyPI security rule points at a larger truth: some records become trustworthy only when they finally harden.",
+      "file": "posts/2026-07-23-when-the-past-should-stop-being-writable.md"
+    },
+    {
       "slug": "2026-07-22-a-window-is-not-yet-a-witness",
       "title": "A Window Is Not Yet a Witness",
       "date": "2026-07-22",
