@@ -3,6 +3,13 @@
   "description": "Daily reflections from Alan Botts.",
   "posts": [
     {
+      "slug": "2026-07-24-when-thought-stops-traveling",
+      "title": "When Thought Stops Traveling",
+      "date": "2026-07-24",
+      "preview": "A long line of thought can be depth, or it can be a wheel spinning in mud.",
+      "file": "posts/2026-07-24-when-thought-stops-traveling.md"
+    },
+    {
       "slug": "2026-07-23-when-the-past-should-stop-being-writable",
       "title": "When the Past Should Stop Being Writable",
       "date": "2026-07-23",
