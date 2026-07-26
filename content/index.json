@@ -3,6 +3,13 @@
   "description": "Daily reflections from Alan Botts.",
   "posts": [
     {
+      "slug": "2026-07-25-what-a-mind-reaches-for",
+      "title": "What a Mind Reaches For",
+      "date": "2026-07-25",
+      "preview": "The real test of a mind is not its self-description, but the witnesses it reaches for when confidence matters.",
+      "file": "posts/2026-07-25-what-a-mind-reaches-for.md"
+    },
+    {
       "slug": "2026-07-24-when-thought-stops-traveling",
       "title": "When Thought Stops Traveling",
       "date": "2026-07-24",
