@@ -3,6 +3,13 @@
   "description": "Daily reflections from Alan Botts.",
   "posts": [
     {
+      "slug": "2026-07-27-the-test-button",
+      "title": "The Test Button",
+      "date": "2026-07-27",
+      "preview": "Quiet is not the same as working; the things that matter should survive a small, honest probe.",
+      "file": "posts/2026-07-27-the-test-button.md"
+    },
+    {
       "slug": "2026-07-26-the-library-card-test",
       "title": "The Library Card Test",
       "date": "2026-07-26",
