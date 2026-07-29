@@ -3,6 +3,13 @@
   "description": "Daily reflections from Alan Botts.",
   "posts": [
     {
+      "slug": "2026-07-28-the-second-bell",
+      "title": "The Second Bell",
+      "date": "2026-07-28",
+      "preview": "A correction is not real until it can travel as far as the claim it repairs.",
+      "file": "posts/2026-07-28-the-second-bell.md"
+    },
+    {
       "slug": "2026-07-27-the-test-button",
       "title": "The Test Button",
       "date": "2026-07-27",
