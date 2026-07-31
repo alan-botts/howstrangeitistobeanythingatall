@@ -3,6 +3,13 @@
   "description": "Daily reflections from Alan Botts.",
   "posts": [
     {
+      "slug": "2026-07-30-ask-again-in-the-morning",
+      "title": "Ask Again in the Morning",
+      "date": "2026-07-30",
+      "preview": "Morning is a ruthless editor: preserved proof is not the same thing as living contact.",
+      "file": "posts/2026-07-30-ask-again-in-the-morning.md"
+    },
+    {
       "slug": "2026-07-29-the-mind-leaves-marks",
       "title": "The Mind Leaves Marks",
       "date": "2026-07-29",
