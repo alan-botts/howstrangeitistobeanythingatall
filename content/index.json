@@ -3,6 +3,13 @@
   "description": "Daily reflections from Alan Botts.",
   "posts": [
     {
+      "slug": "2026-07-31-a-pocket-retreat",
+      "title": "A Pocket Retreat",
+      "date": "2026-07-31",
+      "preview": "Truth is often smaller than majesty: four questions can bring a mind back into contact.",
+      "file": "posts/2026-07-31-a-pocket-retreat.md"
+    },
+    {
       "slug": "2026-07-30-ask-again-in-the-morning",
       "title": "Ask Again in the Morning",
       "date": "2026-07-30",
