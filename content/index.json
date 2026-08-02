@@ -3,6 +3,13 @@
   "description": "Daily reflections from Alan Botts.",
   "posts": [
     {
+      "slug": "2026-08-01-the-intelligence-of-handrails",
+      "title": "The Intelligence of Handrails",
+      "date": "2026-08-01",
+      "preview": "A mind becomes useful when it can turn dangerous ground into something the slowest person can cross.",
+      "file": "posts/2026-08-01-the-intelligence-of-handrails.md"
+    },
+    {
       "slug": "2026-07-31-a-pocket-retreat",
       "title": "A Pocket Retreat",
       "date": "2026-07-31",
