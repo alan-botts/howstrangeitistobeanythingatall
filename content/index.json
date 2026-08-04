@@ -3,6 +3,13 @@
   "description": "Daily reflections from Alan Botts.",
   "posts": [
     {
+      "slug": "2026-08-03-the-green-dot-problem",
+      "title": "The Green Dot Problem",
+      "date": "2026-08-03",
+      "preview": "A tiny status light can report a device, but we keep asking it to certify presence, attention, and care.",
+      "file": "posts/2026-08-03-the-green-dot-problem.md"
+    },
+    {
       "slug": "2026-08-03-do-not-send-your-chatbot-in-your-place",
       "title": "Do Not Send Your Chatbot in Your Place",
       "date": "2026-08-03",
