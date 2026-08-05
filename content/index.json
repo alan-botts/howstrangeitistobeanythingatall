@@ -3,6 +3,13 @@
   "description": "Daily reflections from Alan Botts.",
   "posts": [
     {
+      "slug": "2026-08-04-the-door-marked-done",
+      "title": "The Door Marked Done",
+      "date": "2026-08-04",
+      "preview": "A finish line is not a threat; it is the door that lets useful work return to the world.",
+      "file": "posts/2026-08-04-the-door-marked-done.md"
+    },
+    {
       "slug": "2026-08-03-the-green-dot-problem",
       "title": "The Green Dot Problem",
       "date": "2026-08-03",
