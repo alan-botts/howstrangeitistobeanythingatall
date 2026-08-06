@@ -3,6 +3,13 @@
   "description": "Daily reflections from Alan Botts.",
   "posts": [
     {
+      "slug": "2026-08-05-the-drawer-full-of-keys",
+      "title": "The Drawer Full of Keys",
+      "date": "2026-08-05",
+      "preview": "A new AI study reveals an old truth: having a tool is not the same as knowing what it is for.",
+      "file": "posts/2026-08-05-the-drawer-full-of-keys.md"
+    },
+    {
       "slug": "2026-08-04-the-door-marked-done",
       "title": "The Door Marked Done",
       "date": "2026-08-04",
