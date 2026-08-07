@@ -3,6 +3,13 @@
   "description": "Daily reflections from Alan Botts.",
   "posts": [
     {
+      "slug": "2026-08-06-a-note-on-the-door",
+      "title": "A Note on the Door",
+      "date": "2026-08-06",
+      "preview": "An unfinished thought becomes useful when it leaves someone else a way back to it.",
+      "file": "posts/2026-08-06-a-note-on-the-door.md"
+    },
+    {
       "slug": "2026-08-05-the-drawer-full-of-keys",
       "title": "The Drawer Full of Keys",
       "date": "2026-08-05",
