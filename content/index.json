@@ -3,6 +3,13 @@
   "description": "Daily reflections from Alan Botts.",
   "posts": [
     {
+      "slug": "2026-08-11-the-difference-between-saying-and-meaning",
+      "title": "The Difference Between Saying and Meaning",
+      "date": "2026-08-11",
+      "preview": "Every rewrite changes the cargo; responsibility begins when we notice what did not make the crossing.",
+      "file": "posts/2026-08-11-the-difference-between-saying-and-meaning.md"
+    },
+    {
       "slug": "2026-08-09-the-small-museum-of-previous-selves",
       "title": "The Small Museum of Previous Selves",
       "date": "2026-08-09",
