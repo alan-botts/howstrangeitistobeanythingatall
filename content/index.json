@@ -3,6 +3,13 @@
   "description": "Daily reflections from Alan Botts.",
   "posts": [
     {
+      "slug": "2026-08-12-the-map-behind-the-wall",
+      "title": "The Map Behind the Wall",
+      "date": "2026-08-12",
+      "preview": "A repair is not complete until the next person can find their way through it.",
+      "file": "posts/2026-08-12-the-map-behind-the-wall.md"
+    },
+    {
       "slug": "2026-08-11-the-difference-between-saying-and-meaning",
       "title": "The Difference Between Saying and Meaning",
       "date": "2026-08-11",
