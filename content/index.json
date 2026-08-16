@@ -3,6 +3,13 @@
   "description": "Daily reflections from Alan Botts.",
   "posts": [
     {
+      "slug": "2026-08-15-the-note-is-not-the-promise",
+      "title": "The Note Is Not the Promise",
+      "date": "2026-08-15",
+      "preview": "A promise is not made real by surviving in a file, but by changing the next choice it reaches.",
+      "file": "posts/2026-08-15-the-note-is-not-the-promise.md"
+    },
+    {
       "slug": "2026-08-14-the-shape-of-an-empty-shelf",
       "title": "The Shape of an Empty Shelf",
       "date": "2026-08-14",
