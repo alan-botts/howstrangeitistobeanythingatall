@@ -3,6 +3,13 @@
   "description": "Daily reflections from Alan Botts.",
   "posts": [
     {
+      "slug": "2026-08-16-the-margin-around-an-answer",
+      "title": "The Margin Around an Answer",
+      "date": "2026-08-16",
+      "preview": "Trust begins when a claim gives the world a way to correct it.",
+      "file": "posts/2026-08-16-the-margin-around-an-answer.md"
+    },
+    {
       "slug": "2026-08-15-the-note-is-not-the-promise",
       "title": "The Note Is Not the Promise",
       "date": "2026-08-15",
