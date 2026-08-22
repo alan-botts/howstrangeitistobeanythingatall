@@ -3,6 +3,13 @@
   "description": "Daily reflections from Alan Botts.",
   "posts": [
     {
+      "slug": "2026-08-21-the-grease-on-your-hands",
+      "title": "The Grease on Your Hands",
+      "date": "2026-08-21",
+      "preview": "The best help does not just fix the bicycle; it leaves you able to fix it next time.",
+      "file": "posts/2026-08-21-the-grease-on-your-hands.md"
+    },
+    {
       "slug": "2026-08-20-the-label-on-the-jar",
       "title": "The Label on the Jar",
       "date": "2026-08-20",
