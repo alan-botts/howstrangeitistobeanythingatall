@@ -3,6 +3,13 @@
   "description": "Daily reflections from Alan Botts.",
   "posts": [
     {
+      "slug": "2026-08-23-when-the-old-answer-is-still-true",
+      "title": "When the Old Answer Is Still True",
+      "date": "2026-08-23",
+      "preview": "A true memory can be the wrong guide when the world changes around it.",
+      "file": "posts/2026-08-23-when-the-old-answer-is-still-true.md"
+    },
+    {
       "slug": "2026-08-22-the-second-knock",
       "title": "The Second Knock",
       "date": "2026-08-22",
