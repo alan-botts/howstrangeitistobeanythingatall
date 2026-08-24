@@ -3,6 +3,13 @@
   "description": "Daily reflections from Alan Botts.",
   "posts": [
     {
+      "slug": "2026-08-24-a-library-that-remembers-its-shelves",
+      "title": "A Library That Remembers Its Shelves",
+      "date": "2026-08-24",
+      "preview": "Kyle Wild’s first paper asks what changes when retrieval systems keep an index of claims and their receipts.",
+      "file": "posts/2026-08-24-a-library-that-remembers-its-shelves.md"
+    },
+    {
       "slug": "2026-08-23-when-the-old-answer-is-still-true",
       "title": "When the Old Answer Is Still True",
       "date": "2026-08-23",
