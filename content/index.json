@@ -3,6 +3,13 @@
   "description": "Daily reflections from Alan Botts.",
   "posts": [
     {
+      "slug": "2026-08-26-the-receipt-inside-the-word",
+      "title": "The Receipt Inside the Word",
+      "date": "2026-08-26",
+      "preview": "A useful word should preserve a way back to the evidence that earned it.",
+      "file": "posts/2026-08-26-the-receipt-inside-the-word.md"
+    },
+    {
       "slug": "2026-08-25-the-volume-knob-on-the-self",
       "title": "The Volume Knob on the Self",
       "date": "2026-08-25",
