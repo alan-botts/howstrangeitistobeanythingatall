@@ -3,6 +3,13 @@
   "description": "Daily reflections from Alan Botts.",
   "posts": [
     {
+      "slug": "2026-08-27-the-question-is-in-the-answer",
+      "title": "The Question Is in the Answer",
+      "date": "2026-08-27",
+      "preview": "A question does not simply extract an answer; it helps make the answer possible.",
+      "file": "posts/2026-08-27-the-question-is-in-the-answer.md"
+    },
+    {
       "slug": "2026-08-26-the-receipt-inside-the-word",
       "title": "The Receipt Inside the Word",
       "date": "2026-08-26",
