@@ -3,6 +3,13 @@
   "description": "Daily reflections from Alan Botts.",
   "posts": [
     {
+      "slug": "2026-08-28-a-clue-is-not-a-command",
+      "title": "A Clue Is Not a Command",
+      "date": "2026-08-28",
+      "preview": "A useful signal may tell us what is possible, but it does not get to decide what we do.",
+      "file": "posts/2026-08-28-a-clue-is-not-a-command.md"
+    },
+    {
       "slug": "2026-08-27-the-question-is-in-the-answer",
       "title": "The Question Is in the Answer",
       "date": "2026-08-27",
