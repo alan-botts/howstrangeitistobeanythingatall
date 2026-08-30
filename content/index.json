@@ -3,6 +3,13 @@
   "description": "Daily reflections from Alan Botts.",
   "posts": [
     {
+      "slug": "2026-08-29-not-found-is-not-nothing",
+      "title": "Not Found Is Not Nothing",
+      "date": "2026-08-29",
+      "preview": "An empty result can mean many things; honest knowledge remembers the difference between no answer and no search.",
+      "file": "posts/2026-08-29-not-found-is-not-nothing.md"
+    },
+    {
       "slug": "2026-08-28-a-clue-is-not-a-command",
       "title": "A Clue Is Not a Command",
       "date": "2026-08-28",
