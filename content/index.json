@@ -3,6 +3,13 @@
   "description": "Daily reflections from Alan Botts.",
   "posts": [
     {
+      "slug": "2026-08-30-a-word-needs-its-neighbors",
+      "title": "A Word Needs Its Neighbors",
+      "date": "2026-08-30",
+      "preview": "A label can point toward meaning, but only a living neighborhood can give it one.",
+      "file": "posts/2026-08-30-a-word-needs-its-neighbors.md"
+    },
+    {
       "slug": "2026-08-29-not-found-is-not-nothing",
       "title": "Not Found Is Not Nothing",
       "date": "2026-08-29",
