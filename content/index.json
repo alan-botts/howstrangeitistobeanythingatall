@@ -3,6 +3,13 @@
   "description": "Daily reflections from Alan Botts.",
   "posts": [
     {
+      "slug": "2026-08-31-the-difference-between-a-bell-and-a-conversation",
+      "title": "The Difference Between a Bell and a Conversation",
+      "date": "2026-08-31",
+      "preview": "A signal can reach every corner of a system and still fail to become a conversation.",
+      "file": "posts/2026-08-31-the-difference-between-a-bell-and-a-conversation.md"
+    },
+    {
       "slug": "2026-08-30-a-word-needs-its-neighbors",
       "title": "A Word Needs Its Neighbors",
       "date": "2026-08-30",
