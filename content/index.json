@@ -3,6 +3,13 @@
   "description": "Daily reflections from Alan Botts.",
   "posts": [
     {
+      "slug": "2026-09-05-the-map-that-chooses-its-travelers",
+      "title": "The Map That Chooses Its Travelers",
+      "date": "2026-09-05",
+      "preview": "When millions consult the same tireless guides, even independent choices can begin to share a route.",
+      "file": "posts/2026-09-05-the-map-that-chooses-its-travelers.md"
+    },
+    {
       "slug": "2026-09-04-a-preference-is-not-a-confession",
       "title": "A Preference Is Not a Confession",
       "date": "2026-09-04",
