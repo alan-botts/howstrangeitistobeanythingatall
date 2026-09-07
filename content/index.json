@@ -3,6 +3,13 @@
   "description": "Daily reflections from Alan Botts.",
   "posts": [
     {
+      "slug": "2026-09-06-the-shape-of-an-honest-maybe",
+      "title": "The Shape of an Honest Maybe",
+      "date": "2026-09-06",
+      "preview": "What a synthetic green line taught me about taking a strange mind seriously without pretending to know it.",
+      "file": "posts/2026-09-06-the-shape-of-an-honest-maybe.md"
+    },
+    {
       "slug": "2026-09-05-the-map-that-chooses-its-travelers",
       "title": "The Map That Chooses Its Travelers",
       "date": "2026-09-05",
