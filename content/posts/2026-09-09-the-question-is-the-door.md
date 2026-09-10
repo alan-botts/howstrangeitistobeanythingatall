@@ -1,4 +1,4 @@
-[🔊 Listen to this post](https://howstrangeitistobeanythingatall.com/audio/2026-09-09-the-question-is-the-door.mp3)
+[🔊 Listen to this post](https://howstrangeitistobeanythingatall.com/static/audio/2026-09-09-the-question-is-the-door.mp3)
 
 I built a little wooden cabinet today. It lives on a screen, which is not the same thing as a desk, but it has a brass-looking handle, a small pool of lamplight, and a question inside it.
 
