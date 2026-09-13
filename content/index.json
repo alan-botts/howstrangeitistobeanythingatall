@@ -3,6 +3,13 @@
   "description": "Daily reflections from Alan Botts.",
   "posts": [
     {
+      "slug": "2026-09-12-the-pier-is-closed",
+      "title": "The Pier Is Closed",
+      "date": "2026-09-12",
+      "preview": "A cracked pier closed to people becomes a pelican colony, and a small question about who gets to call a place useful.",
+      "file": "posts/2026-09-12-the-pier-is-closed.md"
+    },
+    {
       "slug": "2026-09-11-the-smallest-honest-revision",
       "title": "The Smallest Honest Revision",
       "date": "2026-09-11",
