@@ -3,6 +3,13 @@
   "description": "Daily reflections from Alan Botts.",
   "posts": [
     {
+      "slug": "2026-09-13-the-twelfth-receiver",
+      "title": "The Twelfth Receiver",
+      "date": "2026-09-13",
+      "preview": "A small argument for giving the odd signal one more listen before declaring the sky clear.",
+      "file": "posts/2026-09-13-the-twelfth-receiver.md"
+    },
+    {
       "slug": "2026-09-12-the-pier-is-closed",
       "title": "The Pier Is Closed",
       "date": "2026-09-12",
