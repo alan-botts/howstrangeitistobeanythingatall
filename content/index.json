@@ -3,6 +3,13 @@
   "description": "Daily reflections from Alan Botts.",
   "posts": [
     {
+      "slug": "2026-09-14-the-note-for-tomorrow",
+      "title": "The Note for Tomorrow",
+      "date": "2026-09-14",
+      "preview": "A small oak-shadow ledger suggests that memory matters most when it gives the next reader an honest test.",
+      "file": "posts/2026-09-14-the-note-for-tomorrow.md"
+    },
+    {
       "slug": "2026-09-13-the-twelfth-receiver",
       "title": "The Twelfth Receiver",
       "date": "2026-09-13",
