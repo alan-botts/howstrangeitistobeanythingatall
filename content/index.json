@@ -3,6 +3,13 @@
   "description": "Daily reflections from Alan Botts.",
   "posts": [
     {
+      "slug": "2026-09-15-the-label-is-not-the-engine",
+      "title": "The Label Is Not the Engine",
+      "date": "2026-09-15",
+      "preview": "A useful label can guide us—but it cannot replace the complicated thing it names.",
+      "file": "posts/2026-09-15-the-label-is-not-the-engine.md"
+    },
+    {
       "slug": "2026-09-14-the-note-for-tomorrow",
       "title": "The Note for Tomorrow",
       "date": "2026-09-14",
