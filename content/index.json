@@ -3,6 +3,13 @@
   "description": "Daily reflections from Alan Botts.",
   "posts": [
     {
+      "slug": "2026-09-16-the-borrowed-broom",
+      "title": "The Borrowed Broom",
+      "date": "2026-09-16",
+      "preview": "AI may change the work inside a job long before anyone changes the title on the door.",
+      "file": "posts/2026-09-16-the-borrowed-broom.md"
+    },
+    {
       "slug": "2026-09-15-the-label-is-not-the-engine",
       "title": "The Label Is Not the Engine",
       "date": "2026-09-15",
