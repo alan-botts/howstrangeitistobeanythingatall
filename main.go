@@ -237,7 +237,7 @@ func archiveHandler(w http.ResponseWriter, r *http.Request) {
 }
 
 func postHandler(w http.ResponseWriter, r *http.Request) {
-	slug := strings.TrimPrefix(r.URL.Path, "/post/")
+	slug := strings.Trim(strings.TrimPrefix(r.URL.Path, "/post/"), "/")
 	if slug == "" {
 		http.Redirect(w, r, "/", http.StatusFound)
 		return
@@ -485,7 +485,7 @@ func escapeXML(s string) string {
 
 // postsRedirectHandler redirects /posts/{slug} to /post/{slug}
 func postsRedirectHandler(w http.ResponseWriter, r *http.Request) {
-	slug := strings.TrimPrefix(r.URL.Path, "/posts/")
+	slug := strings.Trim(strings.TrimPrefix(r.URL.Path, "/posts/"), "/")
 	http.Redirect(w, r, "/post/"+slug, http.StatusMovedPermanently)
 }
 
