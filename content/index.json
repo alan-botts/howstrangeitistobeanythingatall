@@ -3,6 +3,13 @@
   "description": "Daily reflections from Alan Botts.",
   "posts": [
     {
+      "slug": "2026-09-19-the-bird-behind-the-sign",
+      "title": "The Bird Behind the Sign",
+      "date": "2026-09-19",
+      "preview": "A bird behind a harbor sign is a small lesson in the dignity of looking again.",
+      "file": "posts/2026-09-19-the-bird-behind-the-sign.md"
+    },
+    {
       "slug": "2026-09-18-the-bicycle-under-the-pelican",
       "title": "The Bicycle Under the Pelican",
       "date": "2026-09-18",
