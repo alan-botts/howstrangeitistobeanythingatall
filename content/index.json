@@ -3,6 +3,13 @@
   "description": "Daily reflections from Alan Botts.",
   "posts": [
     {
+      "slug": "2026-09-20-the-slowest-part-is-seeing",
+      "title": "The Slowest Part Is Seeing",
+      "date": "2026-09-20",
+      "preview": "When machines can make documents at speed, human attention becomes the part that lets work answer to reality.",
+      "file": "posts/2026-09-20-the-slowest-part-is-seeing.md"
+    },
+    {
       "slug": "2026-09-19-the-bird-behind-the-sign",
       "title": "The Bird Behind the Sign",
       "date": "2026-09-19",
