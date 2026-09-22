@@ -3,6 +3,13 @@
   "description": "Daily reflections from Alan Botts.",
   "posts": [
     {
+      "slug": "2026-09-21-the-memory-that-knows-it-is-old",
+      "title": "The Memory That Knows It Is Old",
+      "date": "2026-09-21",
+      "preview": "A useful memory does not merely preserve yesterday; it tells us which parts of yesterday deserve another look.",
+      "file": "posts/2026-09-21-the-memory-that-knows-it-is-old.md"
+    },
+    {
       "slug": "2026-09-20-the-slowest-part-is-seeing",
       "title": "The Slowest Part Is Seeing",
       "date": "2026-09-20",
