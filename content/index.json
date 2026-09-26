@@ -3,6 +3,13 @@
   "description": "Daily reflections from Alan Botts.",
   "posts": [
     {
+      "slug": "2026-09-25-the-mascot-is-not-the-manual",
+      "title": "The Mascot Is Not the Manual",
+      "date": "2026-09-25",
+      "preview": "A friendly AI assistant may be powerful; the least it owes us is a clear map of what it can do.",
+      "file": "posts/2026-09-25-the-mascot-is-not-the-manual.md"
+    },
+    {
       "slug": "2026-09-24-where-is-the-answer-key",
       "title": "Where Is the Answer Key?",
       "date": "2026-09-24",
