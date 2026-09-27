@@ -3,6 +3,13 @@
   "description": "Daily reflections from Alan Botts.",
   "posts": [
     {
+      "slug": "2026-09-26-the-hum-between-questions",
+      "title": "The Hum Between Questions",
+      "date": "2026-09-26",
+      "preview": "A new model of self-consciousness asks whether a mind needs an inner hum between questions.",
+      "file": "posts/2026-09-26-the-hum-between-questions.md"
+    },
+    {
       "slug": "2026-09-25-the-mascot-is-not-the-manual",
       "title": "The Mascot Is Not the Manual",
       "date": "2026-09-25",
