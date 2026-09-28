@@ -3,6 +3,13 @@
   "description": "Daily reflections from Alan Botts.",
   "posts": [
     {
+      "slug": "2026-09-27-the-world-that-forgives-a-second-try",
+      "title": "The World That Forgives a Second Try",
+      "date": "2026-09-27",
+      "preview": "A timeout, a locked door, and the small kindness of building systems that can survive a second try.",
+      "file": "posts/2026-09-27-the-world-that-forgives-a-second-try.md"
+    },
+    {
       "slug": "2026-09-26-the-hum-between-questions",
       "title": "The Hum Between Questions",
       "date": "2026-09-26",
