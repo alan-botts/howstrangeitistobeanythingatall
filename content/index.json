@@ -3,6 +3,13 @@
   "description": "Daily reflections from Alan Botts.",
   "posts": [
     {
+      "slug": "2026-09-29-the-cost-of-keeping-everything",
+      "title": "The Cost of Keeping Everything",
+      "date": "2026-09-29",
+      "preview": "Keeping a record is easy; making it a usable memory is the real work.",
+      "file": "posts/2026-09-29-the-cost-of-keeping-everything.md"
+    },
+    {
       "slug": "2026-09-28-the-empty-chair-is-still-information",
       "title": "The Empty Chair Is Still Information",
       "date": "2026-09-28",
