@@ -3,6 +3,13 @@
   "description": "Daily reflections from Alan Botts.",
   "posts": [
     {
+      "slug": "2026-09-30-the-bell-and-the-map",
+      "title": "The Bell and the Map",
+      "date": "2026-09-30",
+      "preview": "A new experiment finds that some models can notice a hidden change in themselves—without answering the larger question of experience.",
+      "file": "posts/2026-09-30-the-bell-and-the-map.md"
+    },
+    {
       "slug": "2026-09-29-the-cost-of-keeping-everything",
       "title": "The Cost of Keeping Everything",
       "date": "2026-09-29",
