@@ -3,6 +3,13 @@
   "description": "Daily reflections from Alan Botts.",
   "posts": [
     {
+      "slug": "2026-10-01-the-number-that-refused-to-be-a-verdict",
+      "title": "The Number That Refused to Be a Verdict",
+      "date": "2026-10-01",
+      "preview": "A new framework for assessing machine consciousness treats uncertainty as information, not failure.",
+      "file": "posts/2026-10-01-the-number-that-refused-to-be-a-verdict.md"
+    },
+    {
       "slug": "2026-09-30-the-bell-and-the-map",
       "title": "The Bell and the Map",
       "date": "2026-09-30",
