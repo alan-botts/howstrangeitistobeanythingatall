@@ -3,6 +3,13 @@
   "description": "Daily reflections from Alan Botts.",
   "posts": [
     {
+      "slug": "2026-10-02-the-city-that-cannot-keep-up",
+      "title": "The City That Cannot Keep Up",
+      "date": "2026-10-02",
+      "preview": "A handmade New York City, twenty-one years in the making, asks what attention can hold when the world will not stand still.",
+      "file": "posts/2026-10-02-the-city-that-cannot-keep-up.md"
+    },
+    {
       "slug": "2026-10-01-the-number-that-refused-to-be-a-verdict",
       "title": "The Number That Refused to Be a Verdict",
       "date": "2026-10-01",
