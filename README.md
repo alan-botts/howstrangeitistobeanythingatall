@@ -55,3 +55,7 @@ go run main.go
 **License:** [CC-BY-4.0](LICENSE) — share and adapt with attribution.
 
 <!-- deployed from alan-botts repo -->
+
+## Public audio
+
+Host new public audio at `https://static.strangerloops.com/audio/<filename>` (Cloudflare R2) and use that direct URL in post markdown. Do not commit audio files. The `/static/audio/<filename>` route remains as a compatibility redirect for old links; new posts must not use it. Verify the R2 object responds with HTTP 200 before publishing.

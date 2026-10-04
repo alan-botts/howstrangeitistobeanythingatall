@@ -30,3 +30,8 @@ go.work.sum
 # Editor/IDE
 # .idea/
 # .vscode/
+
+# Public audio belongs in R2, not the site deployment or Git.
+*.mp3
+*.opus
+*.wav

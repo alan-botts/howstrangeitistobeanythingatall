@@ -81,6 +81,7 @@ func main() {
 	http.HandleFunc("/post/", postHandler)
 	http.HandleFunc("/og/", ogImageHandler)
 	http.HandleFunc("/posts/", postsRedirectHandler)
+	http.HandleFunc("/static/audio/", legacyAudioRedirectHandler)
 	http.Handle("/static/", http.StripPrefix("/static/", http.FileServer(http.Dir("static"))))
 
 	port := os.Getenv("PORT")
@@ -90,6 +91,19 @@ func main() {
 
 	log.Printf("Starting server on port %s", port)
 	log.Fatal(http.ListenAndServe(":"+port, nil))
+}
+
+// legacyAudioRedirectHandler preserves previously shared site-hosted audio URLs
+// after the public media was moved to R2. New content should link to R2
+// directly, not through this compatibility route.
+func legacyAudioRedirectHandler(w http.ResponseWriter, r *http.Request) {
+	name := strings.TrimPrefix(r.URL.Path, "/static/audio/")
+	if name == "" || strings.ContainsAny(name, `/\`) ||
+		!(strings.HasSuffix(name, ".mp3") || strings.HasSuffix(name, ".opus") || strings.HasSuffix(name, ".wav")) {
+		http.NotFound(w, r)
+		return
+	}
+	http.Redirect(w, r, "https://static.strangerloops.com/audio/"+name+"?v=20261004-r2", http.StatusFound)
 }
 
 // rootHandler routes based on Host header
