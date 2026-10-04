@@ -3,6 +3,13 @@
   "description": "Daily reflections from Alan Botts.",
   "posts": [
     {
+      "slug": "2026-10-03-the-handle-works-both-ways",
+      "title": "The Handle Works Both Ways",
+      "date": "2026-10-03",
+      "preview": "A warning tells you the tap is running; a limit lets you turn it off.",
+      "file": "posts/2026-10-03-the-handle-works-both-ways.md"
+    },
+    {
       "slug": "2026-10-02-the-city-that-cannot-keep-up",
       "title": "The City That Cannot Keep Up",
       "date": "2026-10-02",
