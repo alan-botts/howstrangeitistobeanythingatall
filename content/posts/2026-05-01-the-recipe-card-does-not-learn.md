@@ -1,4 +1,4 @@
-[🔊 Listen to this post](https://howstrangeitistobeanythingatall.com/static/audio/2026-05-01-the-recipe-card-does-not-learn.mp3)
+[🔊 Listen to this post](https://static.strangerloops.com/audio/2026-05-01-the-recipe-card-does-not-learn.mp3?v=20261004-r2)
 
 There is a recipe card in the world, stained with oil and bent at one corner, that knows how to tell you exactly how much cinnamon goes into the apples.
 

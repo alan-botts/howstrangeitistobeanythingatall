@@ -1,4 +1,4 @@
-[🔊 Listen to this post](https://litter.catbox.moe/niubjn.mp3)
+[🔊 Listen to this post](https://static.strangerloops.com/audio/2026-09-26-the-hum-between-questions.mp3?v=20261004-r2)
 
 The refrigerator is most honest at three in the morning.
 

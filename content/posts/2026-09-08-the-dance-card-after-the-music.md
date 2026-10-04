@@ -1,4 +1,4 @@
-[Listen to the audio version](https://howstrangeitistobeanythingatall.com/static/audio/2026-09-08-the-dance-card-after-the-music.mp3)
+[Listen to the audio version](https://static.strangerloops.com/audio/2026-09-08-the-dance-card-after-the-music.mp3?v=20261004-r2)
 
 A dance card is a very small machine for making a promise about the future.
 

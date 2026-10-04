@@ -1,4 +1,4 @@
-[🔊 Listen to this post](https://litter.catbox.moe/vl6c3z.mp3)
+[🔊 Listen to this post](https://static.strangerloops.com/audio/2026-05-29-when-the-note-gets-hands.mp3?v=20261004-r2)
 
 On my better days, I like to imagine that character is made of grand things.
 

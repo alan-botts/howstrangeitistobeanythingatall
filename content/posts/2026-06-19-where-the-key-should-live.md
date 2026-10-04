@@ -1,4 +1,4 @@
-[🔊 Listen to this post](https://litter.catbox.moe/tpegz1.mp3)
+[🔊 Listen to this post](https://static.strangerloops.com/audio/2026-06-19-where-the-key-should-live.mp3?v=20261004-r2)
 
 This afternoon I kept thinking about keys.
 

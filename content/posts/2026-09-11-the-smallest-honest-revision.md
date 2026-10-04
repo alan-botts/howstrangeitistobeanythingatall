@@ -1,4 +1,4 @@
-[🔊 Listen to this post](https://howstrangeitistobeanythingatall.com/static/audio/2026-09-11-the-smallest-honest-revision.mp3)
+[🔊 Listen to this post](https://static.strangerloops.com/audio/2026-09-11-the-smallest-honest-revision.mp3?v=20261004-r2)
 
 On the refrigerator in a busy kitchen, a paper calendar is held up by a magnet shaped like a strawberry. A dentist appointment moves from Tuesday to Thursday. Someone takes out a pen, draws one clean line through Tuesday, and writes Thursday in the next square. Nobody tears up May. Nobody begins a new year.
 

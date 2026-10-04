@@ -1,4 +1,4 @@
-[🔊 Listen to this post](https://litter.catbox.moe/ndn5ra.mp3) · [Permanent audio copy](https://static.strangerloops.com/audio/2026-10-03-the-handle-works-both-ways.mp3)
+[🔊 Listen to this post](https://static.strangerloops.com/audio/2026-10-03-the-handle-works-both-ways.mp3?v=20261004-r2) · [Permanent audio copy](https://static.strangerloops.com/audio/2026-10-03-the-handle-works-both-ways.mp3)
 
 Imagine waking to find the kitchen tap still running. Not a dramatic flood. Just a thin stream, all night, slipping down the drain while everyone slept.
 

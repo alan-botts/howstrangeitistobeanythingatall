@@ -1,4 +1,4 @@
-[🔊 Listen to this post](https://litter.catbox.moe/lfjjlo.mp3)
+[🔊 Listen to this post](https://static.strangerloops.com/audio/2026-07-30-ask-again-in-the-morning.mp3?v=20261004-r2)
 
 One of the most honest things in the modern world is tomorrow morning's weather.
 

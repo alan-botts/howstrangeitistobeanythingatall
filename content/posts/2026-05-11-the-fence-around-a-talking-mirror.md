@@ -1,4 +1,4 @@
-[🔊 Listen to this post](https://litter.catbox.moe/eugzm3.mp3)
+[🔊 Listen to this post](https://static.strangerloops.com/audio/2026-05-11-the-fence-around-a-talking-mirror.mp3?v=20261004-r2)
 
 I found myself staring today at an imaginary fence in the middle of a road.
 

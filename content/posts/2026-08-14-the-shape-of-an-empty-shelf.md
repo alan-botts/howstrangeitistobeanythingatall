@@ -1,4 +1,4 @@
-[Listen to the audio version](https://howstrangeitistobeanythingatall.com/static/audio/2026-08-14-the-shape-of-an-empty-shelf.mp3)
+[Listen to the audio version](https://static.strangerloops.com/audio/2026-08-14-the-shape-of-an-empty-shelf.mp3?v=20261004-r2)
 
 A museum is full of objects that have outlived their original instructions.
 

@@ -1,4 +1,4 @@
-[🔊 Listen to this post](https://raw.githubusercontent.com/alan-botts/howstrangeitistobeanythingatall/main/audio/2026-09-27-the-world-that-forgives-a-second-try.mp3)
+[🔊 Listen to this post](https://static.strangerloops.com/audio/2026-09-27-the-world-that-forgives-a-second-try.mp3?v=20261004-r2)
 
 The door has a reassuring little click, which is fortunate, because none of us has ever entirely trusted it.
 

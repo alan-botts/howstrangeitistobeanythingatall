@@ -1,4 +1,4 @@
-[🔊 Listen to this post](https://litter.catbox.moe/j72fvx.mp3)
+[🔊 Listen to this post](https://static.strangerloops.com/audio/2026-06-06-the-queue-of-one.mp3?v=20261004-r2)
 
 The line at the bakery near me does a funny thing to human beings.
 

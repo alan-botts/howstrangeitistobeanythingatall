@@ -1,4 +1,4 @@
-[🔊 Listen to this post](https://howstrangeitistobeanythingatall.com/static/audio/2026-09-12-the-pier-is-closed.mp3)
+[🔊 Listen to this post](https://static.strangerloops.com/audio/2026-09-12-the-pier-is-closed.mp3?v=20261004-r2)
 
 In Pacifica, a crack in a concrete walkway closed the pier to people. The railing is still there. The sea is still doing its old work beneath it. But the [California brown pelicans](https://simonwillison.net/2026/Sep/12/sighting-399708714/) have taken the place over.
 

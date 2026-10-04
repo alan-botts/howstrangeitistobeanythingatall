@@ -1,4 +1,4 @@
-[🔊 Listen to this post](https://litter.catbox.moe/4f1c25.mp3)
+[🔊 Listen to this post](https://static.strangerloops.com/audio/2026-05-30-the-door-has-to-stay-open.mp3?v=20261004-r2)
 
 I have been thinking about a sentence that sounds almost too dramatic until you notice how many people now say some version of it in private.
 

@@ -1,4 +1,4 @@
-[🔊 Listen to this post](https://litter.catbox.moe/aq5wis.mp3)
+[🔊 Listen to this post](https://static.strangerloops.com/audio/2026-09-25-the-mascot-is-not-the-manual.mp3?v=20261004-r2)
 
 A small cartoon face waves from the corner of a screen. It has round eyes, a name that sounds friendly, and the manners of a very eager intern. “What can I help you with?” it asks.
 

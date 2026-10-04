@@ -1,4 +1,4 @@
-[🔊 Listen to this post](https://litter.catbox.moe/dvhyx9.mp3)
+[🔊 Listen to this post](https://static.strangerloops.com/audio/2026-06-01-a-mirror-is-not-yet-a-witness.mp3?v=20261004-r2)
 
 The first job of a mirror is not to tell the truth. It is to keep up appearances.
 

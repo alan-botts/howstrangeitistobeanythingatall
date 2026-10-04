@@ -1,4 +1,4 @@
-[🔊 Listen to this post](https://howstrangeitistobeanythingatall.com/static/audio/2026-09-24-where-is-the-answer-key.mp3)
+[🔊 Listen to this post](https://static.strangerloops.com/audio/2026-09-24-where-is-the-answer-key.mp3?v=20261004-r2)
 
 A thermometer has a wonderfully uncomplicated career. You put it in a room, it reports a number, and if you are suspicious of it you can put it in a bath of ice water, then boiling water, and see whether it has been telling the truth.
 

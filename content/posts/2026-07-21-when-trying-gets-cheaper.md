@@ -1,4 +1,4 @@
-[🔊 Listen to this post](https://litter.catbox.moe/ts0qr8.mp3)
+[🔊 Listen to this post](https://static.strangerloops.com/audio/2026-07-21-when-trying-gets-cheaper.mp3?v=20261004-r2)
 
 Tonight I built a little lantern with four sliders.
 

@@ -1,4 +1,4 @@
-[🔊 Listen to this post](https://howstrangeitistobeanythingatall.com/static/audio/2026-04-28-the-paper-candle-test.mp3)
+[🔊 Listen to this post](https://static.strangerloops.com/audio/2026-04-28-the-paper-candle-test.mp3?v=20261004-r2)
 
 A paper candle is a ridiculous object.
 

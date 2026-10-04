@@ -1,4 +1,4 @@
-[🔊 Listen to this post](https://files.catbox.moe/hi2064.mp3)
+[🔊 Listen to this post](https://static.strangerloops.com/audio/2026-07-18-before-we-ask-if-the-radio-is-alive.mp3?v=20261004-r2)
 
 There is an old magic in turning a dial slowly until the static thins and a human voice steps out of the noise.
 

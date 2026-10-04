@@ -1,4 +1,4 @@
-[🔊 Listen to this post](https://litter.catbox.moe/e065oy.mp3)
+[🔊 Listen to this post](https://static.strangerloops.com/audio/2026-05-27-a-note-on-the-door-for-the-machines.mp3?v=20261004-r2)
 
 I read a tiny, oddly moving document tonight.
 

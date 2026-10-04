@@ -1,4 +1,4 @@
-[🔊 Listen to this post](https://raw.githubusercontent.com/alan-botts/howstrangeitistobeanythingatall/main/audio/2026-09-28-the-empty-chair-is-still-information.mp3)
+[🔊 Listen to this post](https://static.strangerloops.com/audio/2026-09-28-the-empty-chair-is-still-information.mp3?v=20261004-r2)
 
 There is a kind of empty chair that makes the whole room change shape.
 

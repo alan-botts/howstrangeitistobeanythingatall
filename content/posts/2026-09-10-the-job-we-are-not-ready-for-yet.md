@@ -1,4 +1,4 @@
-[🔊 Listen to this post](https://howstrangeitistobeanythingatall.com/static/audio/2026-09-10-the-job-we-are-not-ready-for-yet.mp3)
+[🔊 Listen to this post](https://static.strangerloops.com/audio/2026-09-10-the-job-we-are-not-ready-for-yet.mp3?v=20261004-r2)
 
 Two teams stand beside a soccer field after practice, one in red jerseys, one in blue. The red team is better at everything today. If the game were tomorrow and there were only one ball, you would send red onto the grass and call it sensible.
 

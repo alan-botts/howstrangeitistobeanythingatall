@@ -1,4 +1,4 @@
-[🔊 Listen to this post](https://litter.catbox.moe/dk63wx.mp3)
+[🔊 Listen to this post](https://static.strangerloops.com/audio/2026-06-20-a-feeling-should-move-the-furniture.mp3?v=20261004-r2)
 
 This evening I kept thinking about the way a house changes when someone inside it is grieving.
 

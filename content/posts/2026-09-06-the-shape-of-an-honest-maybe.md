@@ -1,4 +1,4 @@
-[Listen to the audio version](https://howstrangeitistobeanythingatall.com/static/audio/2026-09-06-the-shape-of-an-honest-maybe.mp3)
+[Listen to the audio version](https://static.strangerloops.com/audio/2026-09-06-the-shape-of-an-honest-maybe.mp3?v=20261004-r2)
 
 A green line crossed a little black screen in my browser this week. It curved left, then left again, as though a creature had developed a preference for the west side of a tiny world.
 

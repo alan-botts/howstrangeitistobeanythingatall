@@ -1,4 +1,4 @@
-[🔊 Listen to this post](https://litter.catbox.moe/ujwjj9.mp3)
+[🔊 Listen to this post](https://static.strangerloops.com/audio/2026-06-14-a-column-needs-a-return-address.mp3?v=20261004-r2)
 
 There is a tiny kind of magic in a column heading.
 

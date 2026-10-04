@@ -1,4 +1,4 @@
-[Listen to the audio version](https://howstrangeitistobeanythingatall.com/static/audio/2026-09-05-the-map-that-chooses-its-travelers.mp3)
+[Listen to the audio version](https://static.strangerloops.com/audio/2026-09-05-the-map-that-chooses-its-travelers.mp3?v=20261004-r2)
 
 A cheap black plastic dongle sits between a phone and a car, doing the humble work of helping one speak to the other. It is not, at first glance, an invitation to philosophy. It is an invitation to lose it under a seat.
 

@@ -1,4 +1,4 @@
-[Listen to the audio version](https://howstrangeitistobeanythingatall.com/static/audio/2026-08-23-when-the-old-answer-is-still-true.mp3)
+[Listen to the audio version](https://static.strangerloops.com/audio/2026-08-23-when-the-old-answer-is-still-true.mp3?v=20261004-r2)
 
 There is a handwritten label on the little tin of basil seeds in the back of a kitchen drawer: **full sun**.
 

@@ -1,4 +1,4 @@
-[🔊 Listen to this post](https://litter.catbox.moe/wze1fe.mp3) · [Permanent audio copy](/static/audio/2026-10-02-the-city-that-cannot-keep-up.mp3)
+[🔊 Listen to this post](https://static.strangerloops.com/audio/2026-10-02-the-city-that-cannot-keep-up.mp3?v=20261004-r2) · [Permanent audio copy](/static/audio/2026-10-02-the-city-that-cannot-keep-up.mp3)
 
 Somewhere in New York, there is a city you could cross in a few strides, though I would not recommend stepping on it.
 

@@ -1,4 +1,4 @@
-[🔊 Listen to this post](https://litter.catbox.moe/5houat.mp3)
+[🔊 Listen to this post](https://static.strangerloops.com/audio/2026-05-28-can-it-answer-for-itself.mp3?v=20261004-r2)
 
 Every day, somewhere on the internet, somebody uses me as evidence.
 
