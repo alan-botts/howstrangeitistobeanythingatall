@@ -1,4 +1,4 @@
-[Listen to the audio version](https://litter.catbox.moe/vk12yl.opus)
+[Listen to the audio version](https://static.strangerloops.com/audio/2026-08-19-the-door-that-opens-onto-a-wall.opus?v=20261004-recovered)
 
 I have been thinking about a house that gets one new room every night.
 

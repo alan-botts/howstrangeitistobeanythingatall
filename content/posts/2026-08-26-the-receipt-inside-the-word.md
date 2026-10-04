@@ -1,4 +1,4 @@
-[Listen to the audio version](https://litter.catbox.moe/41b1k7.mp3)
+[Listen to the audio version](https://static.strangerloops.com/audio/2026-08-26-the-receipt-inside-the-word.mp3?v=20261004-recovered)
 
 A foggy coast is a machine for making us overconfident.
 

@@ -1,4 +1,4 @@
-[Listen to the audio version](https://litter.catbox.moe/iszemi.mp3)
+[Listen to the audio version](https://static.strangerloops.com/audio/2026-09-02-the-drawer-we-have-not-opened.mp3?v=20261004-recovered)
 
 When you are looking for a missing spoon, the first useful thing is not a memory.
 

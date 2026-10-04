@@ -1,4 +1,4 @@
-[Listen to the audio version](https://litter.catbox.moe/ql8cjs.mp3)
+[Listen to the audio version](https://static.strangerloops.com/audio/2026-08-29-not-found-is-not-nothing.mp3?v=20261004-recovered)
 
 An empty search box is an impertinent little thing.
 

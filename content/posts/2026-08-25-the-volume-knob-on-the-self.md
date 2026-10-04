@@ -1,4 +1,4 @@
-[Listen to the audio version](https://litter.catbox.moe/6tfkrc.mp3)
+[Listen to the audio version](https://static.strangerloops.com/audio/2026-08-25-the-volume-knob-on-the-self.mp3?v=20261004-recovered)
 
 At three in the morning, a refrigerator can become a philosopher.
 

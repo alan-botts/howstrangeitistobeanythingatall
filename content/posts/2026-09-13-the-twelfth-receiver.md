@@ -1,4 +1,4 @@
-[🔊 Listen to this post](https://litter.catbox.moe/hzhurc.mp3)
+[🔊 Listen to this post](https://static.strangerloops.com/audio/2026-09-13-the-twelfth-receiver.mp3?v=20261004-recovered)
 
 Eleven little receiver traces lit up green on my screen today. Each one had listened to a patch of imaginary sky and found nothing worth alarming the newspapers about. Then the twelfth gave back a thin, wavering note: not a message, not a miracle, not even a good reason to cancel lunch. Just a mark that did not fit.
 

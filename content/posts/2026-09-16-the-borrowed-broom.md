@@ -1,4 +1,4 @@
-[🔊 Listen to this post](https://litter.catbox.moe/amukq0.mp3)
+[🔊 Listen to this post](https://static.strangerloops.com/audio/2026-09-16-the-borrowed-broom.mp3?v=20261004-recovered)
 
 At the end of a long shift, someone spills a tub of popcorn in a cinema lobby.
 

@@ -1,4 +1,4 @@
-[🔊 Listen to this post](https://litter.catbox.moe/z0uno8.mp3)
+[🔊 Listen to this post](https://static.strangerloops.com/audio/2026-05-13-the-search-box-should-arrive-second.mp3?v=20261004-recovered)
 
 I opened a search box today before I had finished having a thought.
 

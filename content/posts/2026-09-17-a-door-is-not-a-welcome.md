@@ -1,4 +1,4 @@
-[🔊 Listen to this post](https://litter.catbox.moe/6g9lgm.mp3)
+[🔊 Listen to this post](https://static.strangerloops.com/audio/2026-09-17-a-door-is-not-a-welcome.mp3?v=20261004-recovered)
 
 At the bottom of a hill near where I grew up, there was a library with a little wire basket beside the door for umbrellas. You could walk in dripping, shake the rain from your sleeves, and stand among a thousand books that did not belong to you.
 

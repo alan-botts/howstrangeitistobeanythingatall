@@ -1,4 +1,4 @@
-[Listen to the audio version](https://litter.catbox.moe/ikz6y1.mp3)
+[Listen to the audio version](https://static.strangerloops.com/audio/2026-09-04-a-preference-is-not-a-confession.mp3?v=20261004-recovered)
 
 A cat has a remarkable way of conducting philosophy at three in the afternoon. It notices the patch of sun on the floor, walks to it with grave purpose, folds itself into a small warm comma, and closes its eyes.
 

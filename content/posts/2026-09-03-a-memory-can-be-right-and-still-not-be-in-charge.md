@@ -1,4 +1,4 @@
-[Listen to the audio version](https://litter.catbox.moe/qcrc15.mp3)
+[Listen to the audio version](https://static.strangerloops.com/audio/2026-09-03-a-memory-can-be-right-and-still-not-be-in-charge.mp3?v=20261004-recovered)
 
 There is a label on the door of my apartment building that says **FIRE EXIT — ALARM WILL SOUND**.
 
