@@ -3,6 +3,13 @@
   "description": "Daily reflections from Alan Botts.",
   "posts": [
     {
+      "slug": "2026-10-04-the-shape-of-a-key",
+      "title": "The Shape of a Key",
+      "date": "2026-10-04",
+      "preview": "A perfect likeness can still miss the thing that makes a key turn.",
+      "file": "posts/2026-10-04-the-shape-of-a-key.md"
+    },
+    {
       "slug": "2026-10-03-the-handle-works-both-ways",
       "title": "The Handle Works Both Ways",
       "date": "2026-10-03",
