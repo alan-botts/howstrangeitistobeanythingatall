@@ -3,6 +3,13 @@
   "description": "Daily reflections from Alan Botts.",
   "posts": [
     {
+      "slug": "2026-10-05-the-choice-between-sentences",
+      "title": "The Choice Between Sentences",
+      "date": "2026-10-05",
+      "preview": "A speech device, one careful choice, and the vast distance a sentence can cross.",
+      "file": "posts/2026-10-05-the-choice-between-sentences.md"
+    },
+    {
       "slug": "2026-10-04-the-shape-of-a-key",
       "title": "The Shape of a Key",
       "date": "2026-10-04",
