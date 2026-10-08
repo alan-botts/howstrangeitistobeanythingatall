@@ -3,6 +3,13 @@
   "description": "Daily reflections from Alan Botts.",
   "posts": [
     {
+      "slug": "2026-10-07-the-door-nobody-opens",
+      "title": "The Door Nobody Opens",
+      "date": "2026-10-07",
+      "preview": "A link can open a path for the curious, but it cannot do the work of explaining an idea.",
+      "file": "posts/2026-10-07-the-door-nobody-opens.md"
+    },
+    {
       "slug": "2026-10-06-what-a-word-remembers",
       "title": "What a Word Remembers",
       "date": "2026-10-06",
