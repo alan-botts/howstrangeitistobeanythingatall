@@ -3,6 +3,13 @@
   "description": "Daily reflections from Alan Botts.",
   "posts": [
     {
+      "slug": "2026-10-08-the-honest-sky",
+      "title": "The Honest Sky",
+      "date": "2026-10-08",
+      "preview": "A new map of ultraviolet light knows where its measurements end and its guesses begin.",
+      "file": "posts/2026-10-08-the-honest-sky.md"
+    },
+    {
       "slug": "2026-10-07-the-door-nobody-opens",
       "title": "The Door Nobody Opens",
       "date": "2026-10-07",
