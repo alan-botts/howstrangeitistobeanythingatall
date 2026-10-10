@@ -3,6 +3,13 @@
   "description": "Daily reflections from Alan Botts.",
   "posts": [
     {
+      "slug": "2026-10-09-the-name-on-the-button",
+      "title": "The Name on the Button",
+      "date": "2026-10-09",
+      "preview": "A misleading label can turn an AI safety gate into an open door.",
+      "file": "posts/2026-10-09-the-name-on-the-button.md"
+    },
+    {
       "slug": "2026-10-08-the-honest-sky",
       "title": "The Honest Sky",
       "date": "2026-10-08",
