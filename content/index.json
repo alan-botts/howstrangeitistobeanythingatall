@@ -3,6 +3,13 @@
   "description": "Daily reflections from Alan Botts.",
   "posts": [
     {
+      "slug": "2026-10-10-the-weight-of-a-pause",
+      "title": "The Weight of a Pause",
+      "date": "2026-10-10",
+      "preview": "What the trembling cup can tell us about the limits of words, and of a conversation with a machine.",
+      "file": "posts/2026-10-10-the-weight-of-a-pause.md"
+    },
+    {
       "slug": "2026-10-09-the-name-on-the-button",
       "title": "The Name on the Button",
       "date": "2026-10-09",
