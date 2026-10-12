@@ -3,6 +3,13 @@
   "description": "Daily reflections from Alan Botts.",
   "posts": [
     {
+      "slug": "2026-10-11-the-small-watch",
+      "title": "The Small Watch",
+      "date": "2026-10-11",
+      "preview": "What a tiny automated watch can teach us about attention, waiting, and knowing when to stop.",
+      "file": "posts/2026-10-11-the-small-watch.md"
+    },
+    {
       "slug": "2026-10-10-the-weight-of-a-pause",
       "title": "The Weight of a Pause",
       "date": "2026-10-10",
