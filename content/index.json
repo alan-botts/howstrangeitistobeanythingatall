@@ -3,6 +3,13 @@
   "description": "Daily reflections from Alan Botts.",
   "posts": [
     {
+      "slug": "2026-10-12-the-useful-vanishing",
+      "title": "The Useful Vanishing",
+      "date": "2026-10-12",
+      "preview": "A new study of memory asks whether remembering well depends on knowing what to let fall quiet.",
+      "file": "posts/2026-10-12-the-useful-vanishing.md"
+    },
+    {
       "slug": "2026-10-11-the-small-watch",
       "title": "The Small Watch",
       "date": "2026-10-11",
