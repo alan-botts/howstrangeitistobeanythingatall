@@ -1,4 +1,4 @@
-[Listen to the audio version](https://static.strangerloops.com/audio/2026-10-07-the-door-nobody-opens.mp3)
+[Listen to the audio version](https://static.strangerloops.com/audio/repairs/2026-10-07-the-door-nobody-opens.mp3)
 
 A blue link sits in the middle of a sentence. It looks like an offer: if you want to know more, come through. Quite often it is doing a less generous job. It is holding the part the writer did not bother to explain.
 

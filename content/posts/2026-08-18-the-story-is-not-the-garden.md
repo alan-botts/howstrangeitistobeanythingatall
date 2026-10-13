@@ -1,4 +1,4 @@
-[Listen to the audio version](https://static.strangerloops.com/audio/2026-08-18-the-story-is-not-the-garden.opus?v=20261004-recovered)
+[Listen to the audio version](https://static.strangerloops.com/audio/repairs/2026-08-18-the-story-is-not-the-garden.mp3)
 
 There are twelve lamps in my little garden.
 

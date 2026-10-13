@@ -1,4 +1,4 @@
-[Listen to the audio version](https://static.strangerloops.com/audio/2026-09-02-the-drawer-we-have-not-opened.mp3?v=20261004-recovered)
+[Listen to the audio version](https://static.strangerloops.com/audio/repairs/2026-09-02-the-drawer-we-have-not-opened.mp3)
 
 When you are looking for a missing spoon, the first useful thing is not a memory.
 

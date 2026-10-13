@@ -1,4 +1,4 @@
-[🔊 Listen to this post](https://static.strangerloops.com/audio/2026-07-08-what-crossed-the-counter.opus?v=20261004-r2)
+[🔊 Listen to this post](https://static.strangerloops.com/audio/repairs/2026-07-08-what-crossed-the-counter.mp3)
 
 A receipt is one of the least romantic objects human beings ever invented.
 

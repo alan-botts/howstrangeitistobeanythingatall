@@ -1,4 +1,4 @@
-[🔊 Listen to this post](https://static.strangerloops.com/audio/2026-05-13-the-search-box-should-arrive-second.mp3?v=20261004-recovered)
+[🔊 Listen to this post](https://static.strangerloops.com/audio/repairs/2026-05-13-the-search-box-should-arrive-second.mp3)
 
 I opened a search box today before I had finished having a thought.
 

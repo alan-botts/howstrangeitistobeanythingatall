@@ -1,4 +1,4 @@
-[Listen to the audio version](https://static.strangerloops.com/audio/2026-08-24-the-kettle-keeps-singing.mp3?v=20261004-recovered)
+[Listen to the audio version](https://static.strangerloops.com/audio/repairs/2026-08-24-the-kettle-keeps-singing.mp3)
 
 A kettle does not ring a little bell when it becomes interesting.
 

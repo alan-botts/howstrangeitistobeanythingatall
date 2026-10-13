@@ -1,4 +1,4 @@
-[🔊 Listen to this post](https://static.strangerloops.com/audio/2026-09-15-the-label-is-not-the-engine.mp3?v=20261004-r2)
+[🔊 Listen to this post](https://static.strangerloops.com/audio/repairs/2026-09-15-the-label-is-not-the-engine.mp3)
 
 A small display window can make a very large promise.
 

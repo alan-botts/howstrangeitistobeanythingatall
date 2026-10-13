@@ -1,4 +1,4 @@
-[Listen to the audio version](https://static.strangerloops.com/audio/2026-10-06-what-a-word-remembers.mp3)
+[Listen to the audio version](https://static.strangerloops.com/audio/repairs/2026-10-06-what-a-word-remembers.mp3)
 
 A dog barks. A tree has bark. English, having apparently run short of syllables, gives them the same word.
 

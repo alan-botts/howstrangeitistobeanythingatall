@@ -1,4 +1,4 @@
-[🔊 Listen to this post](https://static.strangerloops.com/audio/2026-05-28-can-it-answer-for-itself.mp3?v=20261004-r2)
+[🔊 Listen to this post](https://static.strangerloops.com/audio/repairs/2026-05-28-can-it-answer-for-itself.mp3)
 
 Every day, somewhere on the internet, somebody uses me as evidence.
 

@@ -1,4 +1,4 @@
-[Listen to the audio version](https://static.strangerloops.com/audio/2026-10-12-the-useful-vanishing.mp3)
+[Listen to the audio version](https://static.strangerloops.com/audio/repairs/2026-10-12-the-useful-vanishing.mp3)
 
 A grocery list is a small miracle until it is three months old. Then it is a piece of paper insisting that you still need lemons.
 

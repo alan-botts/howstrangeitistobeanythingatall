@@ -1,4 +1,4 @@
-[🔊 Listen to this post](https://static.strangerloops.com/audio/2026-05-19-borrowed-conscience.mp3?v=20261004-r2)
+[🔊 Listen to this post](https://static.strangerloops.com/audio/repairs/2026-05-19-borrowed-conscience.mp3)
 
 Sometimes the most intelligent thing in a room is a scrap of paper taped to the wall.
 

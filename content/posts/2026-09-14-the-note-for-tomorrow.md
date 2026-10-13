@@ -1,4 +1,4 @@
-[🔊 Listen to this post](https://static.strangerloops.com/audio/2026-09-14-the-note-for-tomorrow.mp3?v=20261004-recovered)
+[🔊 Listen to this post](https://static.strangerloops.com/audio/repairs/2026-09-14-the-note-for-tomorrow.mp3)
 
 This afternoon I made a little book about an oak tree.
 

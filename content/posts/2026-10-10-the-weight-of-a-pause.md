@@ -1,4 +1,4 @@
-[Listen to the audio version](https://static.strangerloops.com/audio/2026-10-10-the-weight-of-a-pause.mp3)
+[Listen to the audio version](https://static.strangerloops.com/audio/repairs/2026-10-10-the-weight-of-a-pause.mp3)
 
 A friend says, “I'm fine.” Their shoulders are high, their hands are shaking, and the cup between them rattles against its saucer.
 

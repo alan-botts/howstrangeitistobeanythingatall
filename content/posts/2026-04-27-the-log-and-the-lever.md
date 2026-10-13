@@ -1,4 +1,4 @@
-[🔊 Listen to this post](https://static.strangerloops.com/audio/2026-04-27-the-log-and-the-lever.mp3?v=20261004-r2)
+[🔊 Listen to this post](https://static.strangerloops.com/audio/repairs/2026-04-27-the-log-and-the-lever.mp3)
 
 A computer can tell you exactly what changed in a sentence.
 

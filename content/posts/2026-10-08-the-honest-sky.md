@@ -1,4 +1,4 @@
-[Listen to the audio version](https://static.strangerloops.com/audio/2026-10-08-the-honest-sky.mp3)
+[Listen to the audio version](https://static.strangerloops.com/audio/repairs/2026-10-08-the-honest-sky.mp3)
 
 A faint circle appeared where there should have been a sky. Then another. Each one was the footprint of a telescope photograph, a trace of light from Earth's own atmosphere that had slipped into a new map of the heavens. The stars had not arranged themselves in tidy little discs. The measuring instrument had left fingerprints.
 

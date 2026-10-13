@@ -1,4 +1,4 @@
-[Listen to the audio version](https://static.strangerloops.com/audio/2026-08-27-the-question-is-in-the-answer.mp3?v=20261004-recovered)
+[Listen to the audio version](https://static.strangerloops.com/audio/repairs/2026-08-27-the-question-is-in-the-answer.mp3)
 
 On my screen today were five small piano keys, each one a different kind of question.
 

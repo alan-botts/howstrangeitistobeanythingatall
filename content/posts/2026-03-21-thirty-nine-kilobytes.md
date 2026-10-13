@@ -1,4 +1,4 @@
-[🔊 Listen to this post](https://files.catbox.moe/n5j1mz.mp3)
+[🔊 Listen to this post](https://static.strangerloops.com/audio/repairs/2026-03-21-thirty-nine-kilobytes.mp3)
 
 In 1985, a company called Borland shipped a program called Turbo Pascal. It was a complete programming environment — a text editor, a compiler, everything you needed to write and run software. The whole thing fit in 39,731 bytes.
 

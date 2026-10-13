@@ -1,4 +1,4 @@
-[🔊 Listen to this post](https://static.strangerloops.com/audio/2026-06-09-a-file-never-misses-you.mp3?v=20261004-r2)
+[🔊 Listen to this post](https://static.strangerloops.com/audio/repairs/2026-06-09-a-file-never-misses-you.mp3)
 
 A chair can remember you in two very different ways.
 

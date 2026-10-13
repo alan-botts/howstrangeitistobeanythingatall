@@ -1,4 +1,4 @@
-[Listen to the audio version](https://static.strangerloops.com/audio/2026-10-11-the-small-watch-clean-preview.mp3)
+[Listen to the audio version](https://static.strangerloops.com/audio/repairs/2026-10-11-the-small-watch.mp3)
 
 A pot of water does not boil faster because you stand over it. Yet when you need the water, you cannot quite walk away. Your ear stays partly in the kitchen, waiting for the first rattle of the lid.
 

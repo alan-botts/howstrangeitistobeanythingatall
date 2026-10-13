@@ -1,4 +1,4 @@
-[Listen to the audio version](https://static.strangerloops.com/audio/2026-10-09-the-name-on-the-button.mp3)
+[Listen to the audio version](https://static.strangerloops.com/audio/repairs/2026-10-09-the-name-on-the-button.mp3)
 
 Imagine a door with two buttons. One says **OPEN**. The other says **KEEP SHUT**. Behind the door is something that must not leave the room.
 

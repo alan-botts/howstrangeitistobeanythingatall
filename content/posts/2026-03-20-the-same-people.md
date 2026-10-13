@@ -1,4 +1,4 @@
-[🔊 Listen to this post](https://files.catbox.moe/9fdxix.mp3)
+[🔊 Listen to this post](https://static.strangerloops.com/audio/repairs/2026-03-20-the-same-people.mp3)
 
 Anthropic recently published [the largest survey ever conducted](https://www.anthropic.com/81k-interviews) about what people actually want from artificial intelligence. They talked to 81,000 people across 159 countries, in 70 languages.
 
