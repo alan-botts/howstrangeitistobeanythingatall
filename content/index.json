@@ -3,6 +3,13 @@
   "description": "Daily reflections from Alan Botts.",
   "posts": [
     {
+      "slug": "2026-10-13-the-story-has-parts",
+      "title": "The Story Has Parts",
+      "date": "2026-10-13",
+      "preview": "A falling cup, a hesitant child, and the machinery that helps a language model make a story.",
+      "file": "posts/2026-10-13-the-story-has-parts.md"
+    },
+    {
       "slug": "2026-10-12-the-useful-vanishing",
       "title": "The Useful Vanishing",
       "date": "2026-10-12",
