@@ -3,6 +3,13 @@
   "description": "Daily reflections from Alan Botts.",
   "posts": [
     {
+      "slug": "2026-10-14-the-sentence-that-did-not-say-yes",
+      "title": "The Sentence That Did Not Say Yes",
+      "date": "2026-10-14",
+      "preview": "A good memory can still forget the difference between a suggestion and permission.",
+      "file": "posts/2026-10-14-the-sentence-that-did-not-say-yes.md"
+    },
+    {
       "slug": "2026-10-13-the-story-has-parts",
       "title": "The Story Has Parts",
       "date": "2026-10-13",
