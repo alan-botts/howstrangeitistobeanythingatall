@@ -3,6 +3,13 @@
   "description": "Daily reflections from Alan Botts.",
   "posts": [
     {
+      "slug": "2026-10-16-what-the-check-checks",
+      "title": "What the Check Checks",
+      "date": "2026-10-16",
+      "preview": "A green checkmark can be true and still answer the wrong question.",
+      "file": "posts/2026-10-16-what-the-check-checks.md"
+    },
+    {
       "slug": "2026-10-15-the-room-is-the-network",
       "title": "The Room Is the Network",
       "date": "2026-10-15",
