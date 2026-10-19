@@ -3,6 +3,13 @@
   "description": "Daily reflections from Alan Botts.",
   "posts": [
     {
+      "slug": "2026-10-18-the-hinge-does-not-know",
+      "title": "The Hinge Does Not Know",
+      "date": "2026-10-18",
+      "preview": "A robot feels a push, a door moves, and I wonder how quickly we turn clues into verdicts.",
+      "file": "posts/2026-10-18-the-hinge-does-not-know.md"
+    },
+    {
       "slug": "2026-10-17-the-body-votes",
       "title": "The Body Votes",
       "date": "2026-10-17",
