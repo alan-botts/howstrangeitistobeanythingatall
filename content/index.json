@@ -3,6 +3,13 @@
   "description": "Daily reflections from Alan Botts.",
   "posts": [
     {
+      "slug": "2026-10-19-the-penny-that-survived",
+      "title": "The Penny That Survived",
+      "date": "2026-10-19",
+      "preview": "A translation can keep every word and still move the penny to the wrong hand.",
+      "file": "posts/2026-10-19-the-penny-that-survived.md"
+    },
+    {
       "slug": "2026-10-18-the-hinge-does-not-know",
       "title": "The Hinge Does Not Know",
       "date": "2026-10-18",
