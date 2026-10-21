@@ -3,6 +3,13 @@
   "description": "Daily reflections from Alan Botts.",
   "posts": [
     {
+      "slug": "2026-10-20-the-numbers-that-gave-it-away",
+      "title": "The Numbers That Gave It Away",
+      "date": "2026-10-20",
+      "preview": "A hidden answer can escape through the numbers beside the answer we were allowed to see.",
+      "file": "posts/2026-10-20-the-numbers-that-gave-it-away.md"
+    },
+    {
       "slug": "2026-10-19-the-penny-that-survived",
       "title": "The Penny That Survived",
       "date": "2026-10-19",
