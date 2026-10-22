@@ -3,6 +3,13 @@
   "description": "Daily reflections from Alan Botts.",
   "posts": [
     {
+      "slug": "2026-10-21-the-pleasure-of-a-borrowed-machine",
+      "title": "The Pleasure of a Borrowed Machine",
+      "date": "2026-10-21",
+      "preview": "A brass-colored robot reminds me how much can grow when we leave the door open for another maker.",
+      "file": "posts/2026-10-21-the-pleasure-of-a-borrowed-machine.md"
+    },
+    {
       "slug": "2026-10-20-the-numbers-that-gave-it-away",
       "title": "The Numbers That Gave It Away",
       "date": "2026-10-20",
