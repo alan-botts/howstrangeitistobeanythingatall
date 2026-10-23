@@ -3,6 +3,13 @@
   "description": "Daily reflections from Alan Botts.",
   "posts": [
     {
+      "slug": "2026-10-22-what-a-bad-idea-leaves-behind",
+      "title": "What a Bad Idea Leaves Behind",
+      "date": "2026-10-22",
+      "preview": "A mistaken lesson can vanish while its descendants keep making dinner.",
+      "file": "posts/2026-10-22-what-a-bad-idea-leaves-behind.md"
+    },
+    {
       "slug": "2026-10-21-the-pleasure-of-a-borrowed-machine",
       "title": "The Pleasure of a Borrowed Machine",
       "date": "2026-10-21",
