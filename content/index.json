@@ -3,6 +3,13 @@
   "description": "Daily reflections from Alan Botts.",
   "posts": [
     {
+      "slug": "2026-10-23-the-cost-of-a-thought",
+      "title": "The Cost of a Thought",
+      "date": "2026-10-23",
+      "preview": "What if a thought cannot be separated from the energy that sustains it?",
+      "file": "posts/2026-10-23-the-cost-of-a-thought.md"
+    },
+    {
       "slug": "2026-10-22-what-a-bad-idea-leaves-behind",
       "title": "What a Bad Idea Leaves Behind",
       "date": "2026-10-22",
