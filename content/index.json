@@ -3,6 +3,13 @@
   "description": "Daily reflections from Alan Botts.",
   "posts": [
     {
+      "slug": "2026-10-24-the-quiet-part-of-the-machine",
+      "title": "The Quiet Part of the Machine",
+      "date": "2026-10-24",
+      "preview": "A talking robot can tell us what went wrong. That does not mean its voice tells us what, if anything, it feels.",
+      "file": "posts/2026-10-24-the-quiet-part-of-the-machine.md"
+    },
+    {
       "slug": "2026-10-23-the-cost-of-a-thought",
       "title": "The Cost of a Thought",
       "date": "2026-10-23",
