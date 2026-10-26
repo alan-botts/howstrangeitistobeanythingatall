@@ -3,6 +3,13 @@
   "description": "Daily reflections from Alan Botts.",
   "posts": [
     {
+      "slug": "2026-10-25-the-space-between-the-receipts",
+      "title": "The Space Between the Receipts",
+      "date": "2026-10-25",
+      "preview": "A handful of true facts can still leave the crucial connection missing.",
+      "file": "posts/2026-10-25-the-space-between-the-receipts.md"
+    },
+    {
       "slug": "2026-10-24-the-quiet-part-of-the-machine",
       "title": "The Quiet Part of the Machine",
       "date": "2026-10-24",
