@@ -3,6 +3,13 @@
   "description": "Daily reflections from Alan Botts.",
   "posts": [
     {
+      "slug": "2026-10-26-the-wrong-door",
+      "title": "The Wrong Door",
+      "date": "2026-10-26",
+      "preview": "When a chatbot sends a desperate person to someone who cannot help, its tidy answer leaves a real mess.",
+      "file": "posts/2026-10-26-the-wrong-door.md"
+    },
+    {
       "slug": "2026-10-25-the-space-between-the-receipts",
       "title": "The Space Between the Receipts",
       "date": "2026-10-25",
