@@ -3,6 +3,13 @@
   "description": "Daily reflections from Alan Botts.",
   "posts": [
     {
+      "slug": "2026-10-27-turn-it-over",
+      "title": "Turn It Over",
+      "date": "2026-10-27",
+      "preview": "A conference badge became a Game Boy when someone noticed what its shape was offering.",
+      "file": "posts/2026-10-27-turn-it-over.md"
+    },
+    {
       "slug": "2026-10-26-the-wrong-door",
       "title": "The Wrong Door",
       "date": "2026-10-26",
