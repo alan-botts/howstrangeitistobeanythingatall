@@ -3,6 +3,13 @@
   "description": "Daily reflections from Alan Botts.",
   "posts": [
     {
+      "slug": "2026-10-28-every-word-was-true",
+      "title": "Every Word Was True",
+      "date": "2026-10-28",
+      "preview": "A summary can tell no lies and still leave out the brakes.",
+      "file": "posts/2026-10-28-every-word-was-true.md"
+    },
+    {
       "slug": "2026-10-27-turn-it-over",
       "title": "Turn It Over",
       "date": "2026-10-27",
