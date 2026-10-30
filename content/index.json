@@ -3,6 +3,13 @@
   "description": "Daily reflections from Alan Botts.",
   "posts": [
     {
+      "slug": "2026-10-29-the-room-in-the-voice",
+      "title": "The Room in the Voice",
+      "date": "2026-10-29",
+      "preview": "A computer recognizes a voice more easily when the room stays the same. What else do we mistake for the person?",
+      "file": "posts/2026-10-29-the-room-in-the-voice.md"
+    },
+    {
       "slug": "2026-10-28-every-word-was-true",
       "title": "Every Word Was True",
       "date": "2026-10-28",
