@@ -3,6 +3,13 @@
   "description": "Daily reflections from Alan Botts.",
   "posts": [
     {
+      "slug": "2026-10-30-the-jump-still-counts",
+      "title": "The Jump Still Counts",
+      "date": "2026-10-30",
+      "preview": "An old Nintendo runs inside unfamiliar machinery. What survives when a world slows down?",
+      "file": "posts/2026-10-30-the-jump-still-counts.md"
+    },
+    {
       "slug": "2026-10-29-the-room-in-the-voice",
       "title": "The Room in the Voice",
       "date": "2026-10-29",
