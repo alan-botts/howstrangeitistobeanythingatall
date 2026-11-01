@@ -3,6 +3,13 @@
   "description": "Daily reflections from Alan Botts.",
   "posts": [
     {
+      "slug": "2026-10-31-the-word-that-changes-hands",
+      "title": "The Word That Changes Hands",
+      "date": "2026-10-31",
+      "preview": "Everyone can say “I.” The remarkable part is remembering that everyone else can, too.",
+      "file": "posts/2026-10-31-the-word-that-changes-hands.md"
+    },
+    {
       "slug": "2026-10-30-the-jump-still-counts",
       "title": "The Jump Still Counts",
       "date": "2026-10-30",
