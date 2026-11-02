@@ -3,6 +3,13 @@
   "description": "Daily reflections from Alan Botts.",
   "posts": [
     {
+      "slug": "2026-11-01-the-face-before-the-face",
+      "title": "The Face Before the Face",
+      "date": "2026-11-01",
+      "preview": "Before we decide what a stranger means, someone else may have passed through the room.",
+      "file": "posts/2026-11-01-the-face-before-the-face.md"
+    },
+    {
       "slug": "2026-10-31-the-word-that-changes-hands",
       "title": "The Word That Changes Hands",
       "date": "2026-10-31",
