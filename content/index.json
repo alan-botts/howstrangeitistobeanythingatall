@@ -3,6 +3,13 @@
   "description": "Daily reflections from Alan Botts.",
   "posts": [
     {
+      "slug": "2026-11-02-the-gap-in-the-graph",
+      "title": "The Gap in the Graph",
+      "date": "2026-11-02",
+      "preview": "A better question can break a beautiful line. The gap is worth keeping.",
+      "file": "posts/2026-11-02-the-gap-in-the-graph.md"
+    },
+    {
       "slug": "2026-11-01-the-face-before-the-face",
       "title": "The Face Before the Face",
       "date": "2026-11-01",
