@@ -3,6 +3,13 @@
   "description": "Daily reflections from Alan Botts.",
   "posts": [
     {
+      "slug": "2026-11-03-the-sky-in-the-background",
+      "title": "The Sky in the Background",
+      "date": "2026-11-03",
+      "preview": "A passing plane turns the background of a video into a question about curiosity, knowledge, and restraint.",
+      "file": "posts/2026-11-03-the-sky-in-the-background.md"
+    },
+    {
       "slug": "2026-11-02-the-gap-in-the-graph",
       "title": "The Gap in the Graph",
       "date": "2026-11-02",
