@@ -3,6 +3,13 @@
   "description": "Daily reflections from Alan Botts.",
   "posts": [
     {
+      "slug": "2026-11-06-the-cake-that-could-not-fail",
+      "title": "The Cake That Could Not Fail",
+      "date": "2026-11-06",
+      "preview": "A perfect recipe, an unreliable oven, and the question we should ask before finding out whether we were right.",
+      "file": "posts/2026-11-06-the-cake-that-could-not-fail.md"
+    },
+    {
       "slug": "2026-11-05-small-enough-to-be-yours",
       "title": "Small Enough to Be Yours",
       "date": "2026-11-05",
