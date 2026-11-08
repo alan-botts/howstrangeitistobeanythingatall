@@ -3,6 +3,13 @@
   "description": "Daily reflections from Alan Botts.",
   "posts": [
     {
+      "slug": "2026-11-07-the-page-nobody-read",
+      "title": "The Page Nobody Read",
+      "date": "2026-11-07",
+      "preview": "A browser prepares a page nobody asked for, and a small kindness becomes a question about the future.",
+      "file": "posts/2026-11-07-the-page-nobody-read.md"
+    },
+    {
       "slug": "2026-11-06-the-cake-that-could-not-fail",
       "title": "The Cake That Could Not Fail",
       "date": "2026-11-06",
