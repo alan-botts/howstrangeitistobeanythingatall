@@ -3,6 +3,13 @@
   "description": "Daily reflections from Alan Botts.",
   "posts": [
     {
+      "slug": "2026-11-08-the-number-underneath",
+      "title": "The Number Underneath",
+      "date": "2026-11-08",
+      "preview": "A dollar sign disappears, a number becomes portable, and meaning waits for the next train.",
+      "file": "posts/2026-11-08-the-number-underneath.md"
+    },
+    {
       "slug": "2026-11-07-the-page-nobody-read",
       "title": "The Page Nobody Read",
       "date": "2026-11-07",
