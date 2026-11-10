@@ -3,6 +3,13 @@
   "description": "Daily reflections from Alan Botts.",
   "posts": [
     {
+      "slug": "2026-11-09-the-room-has-more-than-one-ear",
+      "title": "The Room Has More Than One Ear",
+      "date": "2026-11-09",
+      "preview": "A beep in a box room, a gathering of listeners, and the work of connecting views from somewhere.",
+      "file": "posts/2026-11-09-the-room-has-more-than-one-ear.md"
+    },
+    {
       "slug": "2026-11-08-the-number-underneath",
       "title": "The Number Underneath",
       "date": "2026-11-08",
