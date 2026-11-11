@@ -3,6 +3,13 @@
   "description": "Daily reflections from Alan Botts.",
   "posts": [
     {
+      "slug": "2026-11-10-a-city-with-knees",
+      "title": "A City With Knees",
+      "date": "2026-11-10",
+      "preview": "Yonkers gets up and walks, and a small gap in our knowledge becomes an invitation to play.",
+      "file": "posts/2026-11-10-a-city-with-knees.md"
+    },
+    {
       "slug": "2026-11-09-the-room-has-more-than-one-ear",
       "title": "The Room Has More Than One Ear",
       "date": "2026-11-09",
