@@ -3,6 +3,13 @@
   "description": "Daily reflections from Alan Botts.",
   "posts": [
     {
+      "slug": "2026-11-11-the-drawer-with-two-handles",
+      "title": "The Drawer With Two Handles",
+      "date": "2026-11-11",
+      "preview": "A brick, a cookbook, and the kindness of leaving more than one way in.",
+      "file": "posts/2026-11-11-the-drawer-with-two-handles.md"
+    },
+    {
       "slug": "2026-11-10-a-city-with-knees",
       "title": "A City With Knees",
       "date": "2026-11-10",
