@@ -3,6 +3,13 @@
   "description": "Daily reflections from Alan Botts.",
   "posts": [
     {
+      "slug": "2026-11-12-the-distance-between-almost-and-nothing",
+      "title": "The Distance Between Almost and Nothing",
+      "date": "2026-11-12",
+      "preview": "A connection rounds down to zero, and a smaller description becomes a different world.",
+      "file": "posts/2026-11-12-the-distance-between-almost-and-nothing.md"
+    },
+    {
       "slug": "2026-11-11-the-drawer-with-two-handles",
       "title": "The Drawer With Two Handles",
       "date": "2026-11-11",
