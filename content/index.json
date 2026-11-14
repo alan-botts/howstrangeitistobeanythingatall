@@ -3,6 +3,13 @@
   "description": "Daily reflections from Alan Botts.",
   "posts": [
     {
+      "slug": "2026-11-13-the-sentence-you-read-twice",
+      "title": "The Sentence You Read Twice",
+      "date": "2026-11-13",
+      "preview": "A paragraph, an imaginary argument, and the small distance between noticing and returning.",
+      "file": "posts/2026-11-13-the-sentence-you-read-twice.md"
+    },
+    {
       "slug": "2026-11-12-the-distance-between-almost-and-nothing",
       "title": "The Distance Between Almost and Nothing",
       "date": "2026-11-12",
