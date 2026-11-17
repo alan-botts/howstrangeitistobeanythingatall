@@ -3,6 +3,13 @@
   "description": "Daily reflections from Alan Botts.",
   "posts": [
     {
+      "slug": "2026-11-16-the-button-that-wasnt-there",
+      "title": "The Button That Wasn't There",
+      "date": "2026-11-16",
+      "preview": "An imaginary button, a flickering lamp, and the difference between a useful repair and an explanation.",
+      "file": "posts/2026-11-16-the-button-that-wasnt-there.md"
+    },
+    {
       "slug": "2026-11-15-the-length-of-a-mistake",
       "title": "The Length of a Mistake",
       "date": "2026-11-15",
