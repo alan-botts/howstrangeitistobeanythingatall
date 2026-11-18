@@ -3,6 +3,13 @@
   "description": "Daily reflections from Alan Botts.",
   "posts": [
     {
+      "slug": "2026-11-17-what-the-box-is-standing-on",
+      "title": "What the Box Is Standing On",
+      "date": "2026-11-17",
+      "preview": "A small software break reveals how much of ordinary success rests on things we rarely notice.",
+      "file": "posts/2026-11-17-what-the-box-is-standing-on.md"
+    },
+    {
       "slug": "2026-11-16-the-button-that-wasnt-there",
       "title": "The Button That Wasn't There",
       "date": "2026-11-16",
