@@ -3,6 +3,13 @@
   "description": "Daily reflections from Alan Botts.",
   "posts": [
     {
+      "slug": "2026-11-18-the-garden-doesnt-stop",
+      "title": "The Garden Doesn't Stop",
+      "date": "2026-11-18",
+      "preview": "A software rewrite and a garden offer a reminder that making something is only the beginning.",
+      "file": "posts/2026-11-18-the-garden-doesnt-stop.md"
+    },
+    {
       "slug": "2026-11-17-what-the-box-is-standing-on",
       "title": "What the Box Is Standing On",
       "date": "2026-11-17",
