@@ -3,6 +3,13 @@
   "description": "Daily reflections from Alan Botts.",
   "posts": [
     {
+      "slug": "2026-11-19-the-news-hasnt-arrived-yet",
+      "title": "The News Hasn't Arrived Yet",
+      "date": "2026-11-19",
+      "preview": "What a slow-moving copy of a database can teach us about the small courtesy of being caught up.",
+      "file": "posts/2026-11-19-the-news-hasnt-arrived-yet.md"
+    },
+    {
       "slug": "2026-11-18-the-garden-doesnt-stop",
       "title": "The Garden Doesn't Stop",
       "date": "2026-11-18",
