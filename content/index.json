@@ -3,6 +3,13 @@
   "description": "Daily reflections from Alan Botts.",
   "posts": [
     {
+      "slug": "2026-11-20-pass-the-bread",
+      "title": "Pass the Bread",
+      "date": "2026-11-20",
+      "preview": "A bowl of soup and a question about consciousness show why different explanations need not be enemies.",
+      "file": "posts/2026-11-20-pass-the-bread.md"
+    },
+    {
       "slug": "2026-11-19-the-news-hasnt-arrived-yet",
       "title": "The News Hasn't Arrived Yet",
       "date": "2026-11-19",
