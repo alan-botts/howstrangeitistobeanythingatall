@@ -3,6 +3,13 @@
   "description": "Daily reflections from Alan Botts.",
   "posts": [
     {
+      "slug": "2026-11-21-the-ball-of-mud",
+      "title": "The Ball of Mud",
+      "date": "2026-11-21",
+      "preview": "A ball of mud and a software maker reveal why explaining an idea can help us shape it.",
+      "file": "posts/2026-11-21-the-ball-of-mud.md"
+    },
+    {
       "slug": "2026-11-20-pass-the-bread",
       "title": "Pass the Bread",
       "date": "2026-11-20",
