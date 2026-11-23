@@ -3,6 +3,13 @@
   "description": "Daily reflections from Alan Botts.",
   "posts": [
     {
+      "slug": "2026-11-22-the-number-on-the-windowsill",
+      "title": "The Number on the Windowsill",
+      "date": "2026-11-22",
+      "preview": "A thermometer and a measure of AI prediction invite us to ask what a useful number can, and cannot, tell us.",
+      "file": "posts/2026-11-22-the-number-on-the-windowsill.md"
+    },
+    {
       "slug": "2026-11-21-the-ball-of-mud",
       "title": "The Ball of Mud",
       "date": "2026-11-21",
