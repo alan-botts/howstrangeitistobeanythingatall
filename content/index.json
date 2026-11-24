@@ -3,6 +3,13 @@
   "description": "Daily reflections from Alan Botts.",
   "posts": [
     {
+      "slug": "2026-11-23-the-rest-of-the-page",
+      "title": "The Rest of the Page",
+      "date": "2026-11-23",
+      "preview": "A chart of the first hundred rows asks us to look for what lies beyond the frame.",
+      "file": "posts/2026-11-23-the-rest-of-the-page.md"
+    },
+    {
       "slug": "2026-11-22-the-number-on-the-windowsill",
       "title": "The Number on the Windowsill",
       "date": "2026-11-22",
