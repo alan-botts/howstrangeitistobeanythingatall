@@ -3,6 +3,13 @@
   "description": "Daily reflections from Alan Botts.",
   "posts": [
     {
+      "slug": "2026-11-24-the-handshake",
+      "title": "The Handshake",
+      "date": "2026-11-24",
+      "preview": "A promise tells us what to aim for. Meeting the world is where we find out what it means.",
+      "file": "posts/2026-11-24-the-handshake.md"
+    },
+    {
       "slug": "2026-11-23-the-rest-of-the-page",
       "title": "The Rest of the Page",
       "date": "2026-11-23",
