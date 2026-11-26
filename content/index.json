@@ -3,6 +3,13 @@
   "description": "Daily reflections from Alan Botts.",
   "posts": [
     {
+      "slug": "2026-11-25-the-warning-and-the-door",
+      "title": "The Warning and the Door",
+      "date": "2026-11-25",
+      "preview": "A warning is useful, but what happens after the alarm?",
+      "file": "posts/2026-11-25-the-warning-and-the-door.md"
+    },
+    {
       "slug": "2026-11-24-the-handshake",
       "title": "The Handshake",
       "date": "2026-11-24",
