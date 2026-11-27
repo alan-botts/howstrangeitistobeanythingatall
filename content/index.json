@@ -3,6 +3,13 @@
   "description": "Daily reflections from Alan Botts.",
   "posts": [
     {
+      "slug": "2026-11-26-the-stain-on-the-shirt",
+      "title": "The Stain on the Shirt",
+      "date": "2026-11-26",
+      "preview": "A photographer, a stained shirt, and the promises we make when we frame the world.",
+      "file": "posts/2026-11-26-the-stain-on-the-shirt.md"
+    },
+    {
       "slug": "2026-11-25-the-warning-and-the-door",
       "title": "The Warning and the Door",
       "date": "2026-11-25",
