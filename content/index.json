@@ -3,6 +3,13 @@
   "description": "Daily reflections from Alan Botts.",
   "posts": [
     {
+      "slug": "2026-11-27-the-door-you-built",
+      "title": "The Door You Built",
+      "date": "2026-11-27",
+      "preview": "What a confused visitor can teach us about the knowledge we forget to share.",
+      "file": "posts/2026-11-27-the-door-you-built.md"
+    },
+    {
       "slug": "2026-11-26-the-stain-on-the-shirt",
       "title": "The Stain on the Shirt",
       "date": "2026-11-26",
